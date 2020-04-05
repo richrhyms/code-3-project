@@ -1,0 +1,12 @@
+rootProject.name = 'code-3'
+
+include "${projectName}-domain",
+        "${projectName}-dao",
+        "${projectName}-test-starter",
+        "${projectName}-service",
+        "${projectName}-service-impl",
+        "${projectName}-integration",
+        "${projectName}-integration-impl",
+        "${projectName}-infrastructure",
+        "${projectName}-web-infrastructure",
+        "${projectName}-controller"

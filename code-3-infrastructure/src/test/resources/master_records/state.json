@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Alabama",
+    "code": "US-AL",
+    "country": "United States"
+  },
+  {
+    "name": "Alaska",
+    "code": "US-AK",
+    "country": "United States"
+  },
+  {
+    "name": "Arizona",
+    "code": "US-AZ",
+    "country": "United States"
+  },
+  {
+    "name": "Arkansas",
+    "code": "US-AR",
+    "country": "United States"
+  },
+  {
+    "name": "California",
+    "code": "US-CA",
+    "country": "United States"
+  },
+  {
+    "name": "Colorado",
+    "code": "US-CO",
+    "country": "United States"
+  },
+  {
+    "name": "Connecticut",
+    "code": "US-CT",
+    "country": "United States"
+  },
+  {
+    "name": "Delaware",
+    "code": "US-DE",
+    "country": "United States"
+  },
+  {
+    "name": "Florida",
+    "code": "US-FL",
+    "country": "United States"
+  },
+  {
+    "name": "Georgia",
+    "code": "US-GA",
+    "country": "United States"
+  },
+  {
+    "name": "Hawaii",
+    "code": "US-HI",
+    "country": "United States"
+  },
+  {
+    "name": "Idaho",
+    "code": "US-ID",
+    "country": "United States"
+  },
+  {
+    "name": "Illinois",
+    "code": "US-IL",
+    "country": "United States"
+  },
+  {
+    "name": "Indiana",
+    "code": "US-IN",
+    "country": "United States"
+  },
+  {
+    "name": "Iowa",
+    "code": "US-IA",
+    "country": "United States"
+  },
+  {
+    "name": "Kansas",
+    "code": "US-KS",
+    "country": "United States"
+  },
+  {
+    "name": "Kentucky",
+    "code": "US-KY",
+    "country": "United States"
+  },
+  {
+    "name": "Louisiana",
+    "code": "US-LA",
+    "country": "United States"
+  },
+  {
+    "name": "Maine",
+    "code": "US-ME",
+    "country": "United States"
+  },
+  {
+    "name": "Maryland",
+    "code": "US-MD",
+    "country": "United States"
+  },
+  {
+    "name": "Massachusetts",
+    "code": "US-MA",
+    "country": "United States"
+  },
+  {
+    "name": "Michigan",
+    "code": "US-MI",
+    "country": "United States"
+  },
+  {
+    "name": "Minnesota",
+    "code": "US-MN",
+    "country": "United States"
+  },
+  {
+    "name": "Mississippi",
+    "code": "US-MS",
+    "country": "United States"
+  },
+  {
+    "name": "Missouri",
+    "code": "US-MO",
+    "country": "United States"
+  },
+  {
+    "name": "Montana",
+    "code": "US-MT",
+    "country": "United States"
+  },
+  {
+    "name": "Nebraska",
+    "code": "US-NE",
+    "country": "United States"
+  },
+  {
+    "name": "Nevada",
+    "code": "US-NV",
+    "country": "United States"
+  },
+  {
+    "name": "New Hampshire",
+    "code": "US-NH",
+    "country": "United States"
+  },
+  {
+    "name": "New Jersey",
+    "code": "US-NJ",
+    "country": "United States"
+  },
+  {
+    "name": "New Mexico",
+    "code": "US-NM",
+    "country": "United States"
+  },
+  {
+    "name": "New York",
+    "code": "US-NY",
+    "country": "United States"
+  },
+  {
+    "name": "North Carolina",
+    "code": "US-NC",
+    "country": "United States"
+  },
+  {
+    "name": "North Dakota",
+    "code": "US-ND",
+    "country": "United States"
+  },
+  {
+    "name": "Ohio",
+    "code": "US-OH",
+    "country": "United States"
+  },
+  {
+    "name": "Oklahoma",
+    "code": "US-OK",
+    "country": "United States"
+  },
+  {
+    "name": "Oregon",
+    "code": "US-OR",
+    "country": "United States"
+  },
+  {
+    "name": "Pennsylvania",
+    "code": "US-PA",
+    "country": "United States"
+  },
+  {
+    "name": "Rhode Island",
+    "code": "US-RI",
+    "country": "United States"
+  },
+  {
+    "name": "South Carolina",
+    "code": "US-SC",
+    "country": "United States"
+  },
+  {
+    "name": "South Dakota",
+    "code": "US-SD",
+    "country": "United States"
+  },
+  {
+    "name": "Tennessee",
+    "code": "US-TN",
+    "country": "United States"
+  },
+  {
+    "name": "Texas",
+    "code": "US-TX",
+    "country": "United States"
+  },
+  {
+    "name": "Utah",
+    "code": "US-UT",
+    "country": "United States"
+  },
+  {
+    "name": "Vermont",
+    "code": "US-VT",
+    "country": "United States"
+  },
+  {
+    "name": "Virginia",
+    "code": "US-VA",
+    "country": "United States"
+  },
+  {
+    "name": "Washington",
+    "code": "US-WA",
+    "country": "United States"
+  },
+  {
+    "name": "West Virginia",
+    "code": "US-WV",
+    "country": "United States"
+  },
+  {
+    "name": "Wisconsin",
+    "code": "US-WI",
+    "country": "United States"
+  },
+  {
+    "name": "Wyoming",
+    "code": "US-WY",
+    "country": "United States"
+  }
+]

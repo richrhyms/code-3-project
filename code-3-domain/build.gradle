@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+group 'com.bw'
+version '0.0.1-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile fileTree(dir: "${project.rootDir}/data-model", include: ['*.jar'])
+    implementation "com.bw:bw-auth-client:0.3"
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.8'
+    implementation("javax.inject:javax.inject:1")
+    implementation "javax.validation:validation-api:2.0.0.Final"
+
+    compileOnly "org.projectlombok:lombok:$lombokVersion"
+    annotationProcessor "org.projectlombok:lombok:$lombokVersion"
+
+    testCompileOnly "org.projectlombok:lombok:$lombokVersion"
+    testAnnotationProcessor "org.projectlombok:lombok:$lombokVersion"
+}

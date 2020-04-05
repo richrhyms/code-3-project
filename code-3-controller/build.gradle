@@ -1,0 +1,68 @@
+apply plugin: 'jacoco'
+
+test {
+    useJUnitPlatform()
+    finalizedBy jacocoTestReport
+}
+
+dependencies {
+    implementation(project(":${projectName}-domain"))
+    implementation(project(":${projectName}-dao")) {
+        exclude module: "hibernate-jpa-2.1-api"
+        exclude module: "spring-tx"
+    }
+    implementation group: 'com.querydsl', name: 'querydsl-core', version: '4.2.1'
+    implementation group: 'com.querydsl', name: 'querydsl-jpa', version: '4.2.1'
+    compileOnly "javax.servlet:javax.servlet-api:$servletVersion"
+
+    implementation(project(":${projectName}-service"))
+    implementation(project(":${projectName}-web-infrastructure"))
+    implementation(project(":${projectName}-integration"))
+    implementation group: 'org.springframework', name: 'spring-webmvc', version: "$springVersion"
+    implementation group: 'org.springframework.data', name: 'spring-data-jpa', version: "$springDataVersion"
+
+    implementation group: 'commons-io', name: 'commons-io', version: '2.6'
+    implementation "org.apache.poi:poi-ooxml:4.0.0"
+    implementation "javax.validation:validation-api:2.0.0.Final"
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.8'
+    implementation("javax.inject:javax.inject:1")
+
+    implementation "com.bw:bw-security:0.1"
+    implementation "com.bw:bw-starter:0.1"
+    implementation "com.bw:bw-api-client:0.2"
+    implementation "com.bw:bw-auth-client:0.3"
+
+    implementation group: 'org.apache.commons', name: 'commons-email', version: '1.5'
+    implementation group: 'com.google.code.gson', name: 'gson', version: '2.8.5'
+
+    compile group: 'org.springdoc', name: 'springdoc-openapi-ui', version: '1.2.32'
+
+    compileOnly "org.projectlombok:lombok:$lombokVersion"
+    annotationProcessor "org.projectlombok:lombok:$lombokVersion"
+
+    testCompileOnly "org.projectlombok:lombok:$lombokVersion"
+    testAnnotationProcessor "org.projectlombok:lombok:$lombokVersion"
+
+    testImplementation 'com.squareup.retrofit2:converter-gson:2.5.0'
+    testImplementation(project(":${projectName}-test-starter"))
+    testImplementation(project(":${projectName}-web-infrastructure"))
+    testImplementation(project(":${projectName}-integration-impl"))
+}
+
+//jacocoTestCoverageVerification {
+//    violationRules {
+//        rule {
+//            element = 'CLASS'
+//            limit {
+//                minimum = 0.95
+//            }
+//            excludes = [
+//                    'com.bw.exception.*',
+//                    'com.bw.excel.*',
+//                    'com.bw.dentaldoor.controlleradvice.*',
+//                    'com.bw.dentaldoor.spec.*'
+//            ]
+//        }
+//    }
+//}
+check.dependsOn jacocoTestCoverageVerification

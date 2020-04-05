@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Alexander City",
+    "code": "US-AL-001",
+    "state": "Alabama"
+  },
+  {
+    "name": "Andalusia",
+    "code": "US-AL-002",
+    "state": "Alabama"
+  },
+  {
+    "name": "Anniston",
+    "code": "US-AL-003",
+    "state": "Alabama"
+  },
+  {
+    "name": "Athens",
+    "code": "US-AL-004",
+    "state": "Alabama"
+  },
+  {
+    "name": "Atmore",
+    "code": "US-AL-005",
+    "state": "Alabama"
+  },
+  {
+    "name": "Auburn",
+    "code": "US-AL-006",
+    "state": "Alabama"
+  },
+  {
+    "name": "Bessemer",
+    "code": "US-AL-007",
+    "state": "Alabama"
+  },
+  {
+    "name": "Birmingham",
+    "code": "US-AL-008",
+    "state": "Alabama"
+  },
+  {
+    "name": "Chickasaw",
+    "code": "US-AL-009",
+    "state": "Alabama"
+  },
+  {
+    "name": "Clanton",
+    "code": "US-AL-010",
+    "state": "Alabama"
+  },
+  {
+    "name": "Cullman",
+    "code": "US-AL-011",
+    "state": "Alabama"
+  },
+  {
+    "name": "Decatur",
+    "code": "US-AL-012",
+    "state": "Alabama"
+  },
+  {
+    "name": "Demopolis",
+    "code": "US-AL-013",
+    "state": "Alabama"
+  },
+  {
+    "name": "Dothan",
+    "code": "US-AL-014",
+    "state": "Alabama"
+  },
+  {
+    "name": "Enterprise",
+    "code": "US-AL-015",
+    "state": "Alabama"
+  },
+  {
+    "name": "Eufaula",
+    "code": "US-AL-016",
+    "state": "Alabama"
+  },
+  {
+    "name": "Florence",
+    "code": "US-AL-017",
+    "state": "Alabama"
+  },
+  {
+    "name": "Fort Payne",
+    "code": "US-AL-018",
+    "state": "Alabama"
+  },
+  {
+    "name": "Gadsden",
+    "code": "US-AL-019",
+    "state": "Alabama"
+  },
+  {
+    "name": "Greenville",
+    "code": "US-AL-020",
+    "state": "Alabama"
+  },
+  {
+    "name": "Guntersville",
+    "code": "US-AL-021",
+    "state": "Alabama"
+  },
+  {
+    "name": "Huntsville",
+    "code": "US-AL-022",
+    "state": "Alabama"
+  },
+  {
+    "name": "Jasper",
+    "code": "US-AL-023",
+    "state": "Alabama"
+  },
+  {
+    "name": "Marion",
+    "code": "US-AL-024",
+    "state": "Alabama"
+  },
+  {
+    "name": "Mobile",
+    "code": "US-AL-025",
+    "state": "Alabama"
+  },
+  {
+    "name": "Montgomery",
+    "code": "US-AL-026",
+    "state": "Alabama"
+  },
+  {
+    "name": "Opelika",
+    "code": "US-AL-027",
+    "state": "Alabama"
+  },
+  {
+    "name": "Ozark",
+    "code": "US-AL-028",
+    "state": "Alabama"
+  },
+  {
+    "name": "Phenix City",
+    "code": "US-AL-029",
+    "state": "Alabama"
+  },
+  {
+    "name": "Prichard",
+    "code": "US-AL-030",
+    "state": "Alabama"
+  },
+  {
+    "name": "Scottsboro",
+    "code": "US-AL-031",
+    "state": "Alabama"
+  },
+  {
+    "name": "Selma",
+    "code": "US-AL-032",
+    "state": "Alabama"
+  },
+  {
+    "name": "Sheffield",
+    "code": "US-AL-033",
+    "state": "Alabama"
+  },
+  {
+    "name": "Sylacauga",
+    "code": "US-AL-034",
+    "state": "Alabama"
+  },
+  {
+    "name": "Talladega",
+    "code": "US-AL-035",
+    "state": "Alabama"
+  },
+  {
+    "name": "Troy",
+    "code": "US-AL-036",
+    "state": "Alabama"
+  },
+  {
+    "name": "Tuscaloosa",
+    "code": "US-AL-037",
+    "state": "Alabama"
+  },
+  {
+    "name": "Tuscumbia",
+    "code": "US-AL-038",
+    "state": "Alabama"
+  },
+  {
+    "name": "Tuskegee",
+    "code": "US-AL-039",
+    "state": "Alabama"
+  },
+  {
+    "name": "Anchorage",
+    "code": "US-AK-040",
+    "state": "Alaska"
+  },
+  {
+    "name": "Cordova",
+    "code": "US-AK-041",
+    "state": "Alaska"
+  },
+  {
+    "name": "Fairbanks",
+    "code": "US-AK-042",
+    "state": "Alaska"
+  },
+  {
+    "name": "Haines",
+    "code": "US-AK-043",
+    "state": "Alaska"
+  },
+  {
+    "name": "Homer",
+    "code": "US-AK-044",
+    "state": "Alaska"
+  },
+  {
+    "name": "Juneau",
+    "code": "US-AK-045",
+    "state": "Alaska"
+  },
+  {
+    "name": "Ketchikan",
+    "code": "US-AK-046",
+    "state": "Alaska"
+  },
+  {
+    "name": "Kodiak",
+    "code": "US-AK-047",
+    "state": "Alaska"
+  },
+  {
+    "name": "Kotzebue",
+    "code": "US-AK-048",
+    "state": "Alaska"
+  },
+  {
+    "name": "Nome",
+    "code": "US-AK-049",
+    "state": "Alaska"
+  },
+  {
+    "name": "Palmer",
+    "code": "US-AK-050",
+    "state": "Alaska"
+  },
+  {
+    "name": "Seward",
+    "code": "US-AK-051",
+    "state": "Alaska"
+  }
+]

@@ -1,0 +1,41 @@
+# This is a sample build configuration for Java (Gradle).
+# Check our guides at https://confluence.atlassian.com/x/zd-5Mw for more examples.
+# Only use spaces to indent your .yml configuration.
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+image: openjdk:8
+
+pipelines:
+  pull-requests:
+      '**':
+        - step:
+            caches:
+             - gradle
+            name: Build and test
+            script:
+             - bash ./gradlew clean build
+  branches:
+     master:
+      - step:
+         caches:
+           - gradle
+         name: Production Deployment
+         deployment: Production
+         script:
+           - bash ./gradlew clean build
+     staging:
+      - step:
+         caches:
+           - gradle
+         name:  Build and test
+         script:
+           - bash ./gradlew clean build
+           - echo "$(ls -la build/libs/)"
+         artifacts:
+           - build/libs/**
+      - step:
+          name: Staging Deployment
+          deployment: Staging
+          script:
+           - curl --upload-file build/libs/dental-door-0.1.war "http://${DEPLOYER_USER_NAME}:${DEPLOYER_PASSWORD}@ddstaging.byteproducts.com:${PORT}/manager/text/deploy?path=/api&update=true"
+           

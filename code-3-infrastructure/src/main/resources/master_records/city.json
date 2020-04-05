@@ -1,0 +1,9807 @@
+[
+  {
+    "name": "Alexander City",
+    "code": "US-AL-001",
+    "state": "Alabama"
+  },
+  {
+    "name": "Andalusia",
+    "code": "US-AL-002",
+    "state": "Alabama"
+  },
+  {
+    "name": "Anniston",
+    "code": "US-AL-003",
+    "state": "Alabama"
+  },
+  {
+    "name": "Athens",
+    "code": "US-AL-004",
+    "state": "Alabama"
+  },
+  {
+    "name": "Atmore",
+    "code": "US-AL-005",
+    "state": "Alabama"
+  },
+  {
+    "name": "Auburn",
+    "code": "US-AL-006",
+    "state": "Alabama"
+  },
+  {
+    "name": "Bessemer",
+    "code": "US-AL-007",
+    "state": "Alabama"
+  },
+  {
+    "name": "Birmingham",
+    "code": "US-AL-008",
+    "state": "Alabama"
+  },
+  {
+    "name": "Chickasaw",
+    "code": "US-AL-009",
+    "state": "Alabama"
+  },
+  {
+    "name": "Clanton",
+    "code": "US-AL-010",
+    "state": "Alabama"
+  },
+  {
+    "name": "Cullman",
+    "code": "US-AL-011",
+    "state": "Alabama"
+  },
+  {
+    "name": "Decatur",
+    "code": "US-AL-012",
+    "state": "Alabama"
+  },
+  {
+    "name": "Demopolis",
+    "code": "US-AL-013",
+    "state": "Alabama"
+  },
+  {
+    "name": "Dothan",
+    "code": "US-AL-014",
+    "state": "Alabama"
+  },
+  {
+    "name": "Enterprise",
+    "code": "US-AL-015",
+    "state": "Alabama"
+  },
+  {
+    "name": "Eufaula",
+    "code": "US-AL-016",
+    "state": "Alabama"
+  },
+  {
+    "name": "Florence",
+    "code": "US-AL-017",
+    "state": "Alabama"
+  },
+  {
+    "name": "Fort Payne",
+    "code": "US-AL-018",
+    "state": "Alabama"
+  },
+  {
+    "name": "Gadsden",
+    "code": "US-AL-019",
+    "state": "Alabama"
+  },
+  {
+    "name": "Greenville",
+    "code": "US-AL-020",
+    "state": "Alabama"
+  },
+  {
+    "name": "Guntersville",
+    "code": "US-AL-021",
+    "state": "Alabama"
+  },
+  {
+    "name": "Huntsville",
+    "code": "US-AL-022",
+    "state": "Alabama"
+  },
+  {
+    "name": "Jasper",
+    "code": "US-AL-023",
+    "state": "Alabama"
+  },
+  {
+    "name": "Marion",
+    "code": "US-AL-024",
+    "state": "Alabama"
+  },
+  {
+    "name": "Mobile",
+    "code": "US-AL-025",
+    "state": "Alabama"
+  },
+  {
+    "name": "Montgomery",
+    "code": "US-AL-026",
+    "state": "Alabama"
+  },
+  {
+    "name": "Opelika",
+    "code": "US-AL-027",
+    "state": "Alabama"
+  },
+  {
+    "name": "Ozark",
+    "code": "US-AL-028",
+    "state": "Alabama"
+  },
+  {
+    "name": "Phenix City",
+    "code": "US-AL-029",
+    "state": "Alabama"
+  },
+  {
+    "name": "Prichard",
+    "code": "US-AL-030",
+    "state": "Alabama"
+  },
+  {
+    "name": "Scottsboro",
+    "code": "US-AL-031",
+    "state": "Alabama"
+  },
+  {
+    "name": "Selma",
+    "code": "US-AL-032",
+    "state": "Alabama"
+  },
+  {
+    "name": "Sheffield",
+    "code": "US-AL-033",
+    "state": "Alabama"
+  },
+  {
+    "name": "Sylacauga",
+    "code": "US-AL-034",
+    "state": "Alabama"
+  },
+  {
+    "name": "Talladega",
+    "code": "US-AL-035",
+    "state": "Alabama"
+  },
+  {
+    "name": "Troy",
+    "code": "US-AL-036",
+    "state": "Alabama"
+  },
+  {
+    "name": "Tuscaloosa",
+    "code": "US-AL-037",
+    "state": "Alabama"
+  },
+  {
+    "name": "Tuscumbia",
+    "code": "US-AL-038",
+    "state": "Alabama"
+  },
+  {
+    "name": "Tuskegee",
+    "code": "US-AL-039",
+    "state": "Alabama"
+  },
+  {
+    "name": "Anchorage",
+    "code": "US-AK-001",
+    "state": "Alaska"
+  },
+  {
+    "name": "Cordova",
+    "code": "US-AK-002",
+    "state": "Alaska"
+  },
+  {
+    "name": "Fairbanks",
+    "code": "US-AK-003",
+    "state": "Alaska"
+  },
+  {
+    "name": "Haines",
+    "code": "US-AK-004",
+    "state": "Alaska"
+  },
+  {
+    "name": "Homer",
+    "code": "US-AK-005",
+    "state": "Alaska"
+  },
+  {
+    "name": "Juneau",
+    "code": "US-AK-006",
+    "state": "Alaska"
+  },
+  {
+    "name": "Ketchikan",
+    "code": "US-AK-007",
+    "state": "Alaska"
+  },
+  {
+    "name": "Kodiak",
+    "code": "US-AK-008",
+    "state": "Alaska"
+  },
+  {
+    "name": "Kotzebue",
+    "code": "US-AK-009",
+    "state": "Alaska"
+  },
+  {
+    "name": "Nome",
+    "code": "US-AK-010",
+    "state": "Alaska"
+  },
+  {
+    "name": "Palmer",
+    "code": "US-AK-011",
+    "state": "Alaska"
+  },
+  {
+    "name": "Seward",
+    "code": "US-AK-012",
+    "state": "Alaska"
+  },
+  {
+    "name": "Sitka",
+    "code": "US-AK-013",
+    "state": "Alaska"
+  },
+  {
+    "name": "Skagway",
+    "code": "US-AK-014",
+    "state": "Alaska"
+  },
+  {
+    "name": "Valdez",
+    "code": "US-AK-015",
+    "state": "Alaska"
+  },
+  {
+    "name": "Ajo",
+    "code": "US-AZ-001",
+    "state": "Arizona"
+  },
+  {
+    "name": "Avondale",
+    "code": "US-AZ-002",
+    "state": "Arizona"
+  },
+  {
+    "name": "Bisbee",
+    "code": "US-AZ-003",
+    "state": "Arizona"
+  },
+  {
+    "name": "Casa Grande",
+    "code": "US-AZ-004",
+    "state": "Arizona"
+  },
+  {
+    "name": "Chandler",
+    "code": "US-AZ-005",
+    "state": "Arizona"
+  },
+  {
+    "name": "Clifton",
+    "code": "US-AZ-006",
+    "state": "Arizona"
+  },
+  {
+    "name": "Douglas",
+    "code": "US-AZ-007",
+    "state": "Arizona"
+  },
+  {
+    "name": "Flagstaff",
+    "code": "US-AZ-008",
+    "state": "Arizona"
+  },
+  {
+    "name": "Florence",
+    "code": "US-AZ-009",
+    "state": "Arizona"
+  },
+  {
+    "name": "Gila Bend",
+    "code": "US-AZ-010",
+    "state": "Arizona"
+  },
+  {
+    "name": "Glendale",
+    "code": "US-AZ-011",
+    "state": "Arizona"
+  },
+  {
+    "name": "Globe",
+    "code": "US-AZ-012",
+    "state": "Arizona"
+  },
+  {
+    "name": "Kingman",
+    "code": "US-AZ-013",
+    "state": "Arizona"
+  },
+  {
+    "name": "Lake Havasu City",
+    "code": "US-AZ-014",
+    "state": "Arizona"
+  },
+  {
+    "name": "Mesa",
+    "code": "US-AZ-015",
+    "state": "Arizona"
+  },
+  {
+    "name": "Nogales",
+    "code": "US-AZ-016",
+    "state": "Arizona"
+  },
+  {
+    "name": "Oraibi",
+    "code": "US-AZ-017",
+    "state": "Arizona"
+  },
+  {
+    "name": "Phoenix",
+    "code": "US-AZ-018",
+    "state": "Arizona"
+  },
+  {
+    "name": "Prescott",
+    "code": "US-AZ-019",
+    "state": "Arizona"
+  },
+  {
+    "name": "Scottsdale",
+    "code": "US-AZ-020",
+    "state": "Arizona"
+  },
+  {
+    "name": "Sierra Vista",
+    "code": "US-AZ-021",
+    "state": "Arizona"
+  },
+  {
+    "name": "Tempe",
+    "code": "US-AZ-022",
+    "state": "Arizona"
+  },
+  {
+    "name": "Tombstone",
+    "code": "US-AZ-023",
+    "state": "Arizona"
+  },
+  {
+    "name": "Tucson",
+    "code": "US-AZ-024",
+    "state": "Arizona"
+  },
+  {
+    "name": "Walpi",
+    "code": "US-AZ-025",
+    "state": "Arizona"
+  },
+  {
+    "name": "Window Rock",
+    "code": "US-AZ-026",
+    "state": "Arizona"
+  },
+  {
+    "name": "Winslow",
+    "code": "US-AZ-027",
+    "state": "Arizona"
+  },
+  {
+    "name": "Yuma",
+    "code": "US-AZ-028",
+    "state": "Arizona"
+  },
+  {
+    "name": "Arkadelphia",
+    "code": "US-AR-001",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Arkansas Post",
+    "code": "US-AR-002",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Batesville",
+    "code": "US-AR-003",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Benton",
+    "code": "US-AR-004",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Blytheville",
+    "code": "US-AR-005",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Camden",
+    "code": "US-AR-006",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Conway",
+    "code": "US-AR-007",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Crossett",
+    "code": "US-AR-008",
+    "state": "Arkansas"
+  },
+  {
+    "name": "El Dorado",
+    "code": "US-AR-009",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Fayetteville",
+    "code": "US-AR-010",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Forrest City",
+    "code": "US-AR-011",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Fort Smith",
+    "code": "US-AR-012",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Harrison",
+    "code": "US-AR-013",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Helena",
+    "code": "US-AR-014",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Hope",
+    "code": "US-AR-015",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Hot Springs",
+    "code": "US-AR-016",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Jacksonville",
+    "code": "US-AR-017",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Jonesboro",
+    "code": "US-AR-018",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Little Rock",
+    "code": "US-AR-019",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Magnolia",
+    "code": "US-AR-020",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Morrilton",
+    "code": "US-AR-021",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Newport",
+    "code": "US-AR-022",
+    "state": "Arkansas"
+  },
+  {
+    "name": "North Little Rock",
+    "code": "US-AR-023",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Osceola",
+    "code": "US-AR-024",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Pine Bluff",
+    "code": "US-AR-025",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Rogers",
+    "code": "US-AR-026",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Searcy",
+    "code": "US-AR-027",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Stuttgart",
+    "code": "US-AR-028",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Van Buren",
+    "code": "US-AR-029",
+    "state": "Arkansas"
+  },
+  {
+    "name": "West Memphis",
+    "code": "US-AR-030",
+    "state": "Arkansas"
+  },
+  {
+    "name": "Alameda",
+    "code": "US-CA-001",
+    "state": "California"
+  },
+  {
+    "name": "Alhambra",
+    "code": "US-CA-002",
+    "state": "California"
+  },
+  {
+    "name": "Anaheim",
+    "code": "US-CA-003",
+    "state": "California"
+  },
+  {
+    "name": "Antioch",
+    "code": "US-CA-004",
+    "state": "California"
+  },
+  {
+    "name": "Arcadia",
+    "code": "US-CA-005",
+    "state": "California"
+  },
+  {
+    "name": "Bakersfield",
+    "code": "US-CA-006",
+    "state": "California"
+  },
+  {
+    "name": "Barstow",
+    "code": "US-CA-007",
+    "state": "California"
+  },
+  {
+    "name": "Belmont",
+    "code": "US-CA-008",
+    "state": "California"
+  },
+  {
+    "name": "Berkeley",
+    "code": "US-CA-009",
+    "state": "California"
+  },
+  {
+    "name": "Beverly Hills",
+    "code": "US-CA-010",
+    "state": "California"
+  },
+  {
+    "name": "Brea",
+    "code": "US-CA-011",
+    "state": "California"
+  },
+  {
+    "name": "Buena Park",
+    "code": "US-CA-012",
+    "state": "California"
+  },
+  {
+    "name": "Burbank",
+    "code": "US-CA-013",
+    "state": "California"
+  },
+  {
+    "name": "Calexico",
+    "code": "US-CA-014",
+    "state": "California"
+  },
+  {
+    "name": "Calistoga",
+    "code": "US-CA-015",
+    "state": "California"
+  },
+  {
+    "name": "Carlsbad",
+    "code": "US-CA-016",
+    "state": "California"
+  },
+  {
+    "name": "Carmel",
+    "code": "US-CA-017",
+    "state": "California"
+  },
+  {
+    "name": "Chico",
+    "code": "US-CA-018",
+    "state": "California"
+  },
+  {
+    "name": "Chula Vista",
+    "code": "US-CA-019",
+    "state": "California"
+  },
+  {
+    "name": "Claremont",
+    "code": "US-CA-020",
+    "state": "California"
+  },
+  {
+    "name": "Compton",
+    "code": "US-CA-021",
+    "state": "California"
+  },
+  {
+    "name": "Concord",
+    "code": "US-CA-022",
+    "state": "California"
+  },
+  {
+    "name": "Corona",
+    "code": "US-CA-023",
+    "state": "California"
+  },
+  {
+    "name": "Coronado",
+    "code": "US-CA-024",
+    "state": "California"
+  },
+  {
+    "name": "Costa Mesa",
+    "code": "US-CA-025",
+    "state": "California"
+  },
+  {
+    "name": "Culver City",
+    "code": "US-CA-026",
+    "state": "California"
+  },
+  {
+    "name": "Daly City",
+    "code": "US-CA-027",
+    "state": "California"
+  },
+  {
+    "name": "Davis",
+    "code": "US-CA-028",
+    "state": "California"
+  },
+  {
+    "name": "Downey",
+    "code": "US-CA-029",
+    "state": "California"
+  },
+  {
+    "name": "El Centro",
+    "code": "US-CA-030",
+    "state": "California"
+  },
+  {
+    "name": "El Cerrito",
+    "code": "US-CA-031",
+    "state": "California"
+  },
+  {
+    "name": "El Monte",
+    "code": "US-CA-032",
+    "state": "California"
+  },
+  {
+    "name": "Escondido",
+    "code": "US-CA-033",
+    "state": "California"
+  },
+  {
+    "name": "Eureka",
+    "code": "US-CA-034",
+    "state": "California"
+  },
+  {
+    "name": "Fairfield",
+    "code": "US-CA-035",
+    "state": "California"
+  },
+  {
+    "name": "Fontana",
+    "code": "US-CA-036",
+    "state": "California"
+  },
+  {
+    "name": "Fremont",
+    "code": "US-CA-037",
+    "state": "California"
+  },
+  {
+    "name": "Fresno",
+    "code": "US-CA-038",
+    "state": "California"
+  },
+  {
+    "name": "Fullerton",
+    "code": "US-CA-039",
+    "state": "California"
+  },
+  {
+    "name": "Garden Grove",
+    "code": "US-CA-040",
+    "state": "California"
+  },
+  {
+    "name": "Glendale",
+    "code": "US-CA-041",
+    "state": "California"
+  },
+  {
+    "name": "Hayward",
+    "code": "US-CA-042",
+    "state": "California"
+  },
+  {
+    "name": "Hollywood",
+    "code": "US-CA-043",
+    "state": "California"
+  },
+  {
+    "name": "Huntington Beach",
+    "code": "US-CA-044",
+    "state": "California"
+  },
+  {
+    "name": "Indio",
+    "code": "US-CA-045",
+    "state": "California"
+  },
+  {
+    "name": "Inglewood",
+    "code": "US-CA-046",
+    "state": "California"
+  },
+  {
+    "name": "Irvine",
+    "code": "US-CA-047",
+    "state": "California"
+  },
+  {
+    "name": "La Habra",
+    "code": "US-CA-048",
+    "state": "California"
+  },
+  {
+    "name": "Laguna Beach",
+    "code": "US-CA-049",
+    "state": "California"
+  },
+  {
+    "name": "Lancaster",
+    "code": "US-CA-050",
+    "state": "California"
+  },
+  {
+    "name": "Livermore",
+    "code": "US-CA-051",
+    "state": "California"
+  },
+  {
+    "name": "Lodi",
+    "code": "US-CA-052",
+    "state": "California"
+  },
+  {
+    "name": "Lompoc",
+    "code": "US-CA-053",
+    "state": "California"
+  },
+  {
+    "name": "Long Beach",
+    "code": "US-CA-054",
+    "state": "California"
+  },
+  {
+    "name": "Los Angeles",
+    "code": "US-CA-055",
+    "state": "California"
+  },
+  {
+    "name": "Malibu",
+    "code": "US-CA-056",
+    "state": "California"
+  },
+  {
+    "name": "Martinez",
+    "code": "US-CA-057",
+    "state": "California"
+  },
+  {
+    "name": "Marysville",
+    "code": "US-CA-058",
+    "state": "California"
+  },
+  {
+    "name": "Menlo Park",
+    "code": "US-CA-059",
+    "state": "California"
+  },
+  {
+    "name": "Merced",
+    "code": "US-CA-060",
+    "state": "California"
+  },
+  {
+    "name": "Modesto",
+    "code": "US-CA-061",
+    "state": "California"
+  },
+  {
+    "name": "Monterey",
+    "code": "US-CA-062",
+    "state": "California"
+  },
+  {
+    "name": "Mountain View",
+    "code": "US-CA-063",
+    "state": "California"
+  },
+  {
+    "name": "Napa",
+    "code": "US-CA-064",
+    "state": "California"
+  },
+  {
+    "name": "Needles",
+    "code": "US-CA-065",
+    "state": "California"
+  },
+  {
+    "name": "Newport Beach",
+    "code": "US-CA-066",
+    "state": "California"
+  },
+  {
+    "name": "Norwalk",
+    "code": "US-CA-067",
+    "state": "California"
+  },
+  {
+    "name": "Novato",
+    "code": "US-CA-068",
+    "state": "California"
+  },
+  {
+    "name": "Oakland",
+    "code": "US-CA-069",
+    "state": "California"
+  },
+  {
+    "name": "Oceanside",
+    "code": "US-CA-070",
+    "state": "California"
+  },
+  {
+    "name": "Ojai",
+    "code": "US-CA-071",
+    "state": "California"
+  },
+  {
+    "name": "Ontario",
+    "code": "US-CA-072",
+    "state": "California"
+  },
+  {
+    "name": "Orange",
+    "code": "US-CA-073",
+    "state": "California"
+  },
+  {
+    "name": "Oroville",
+    "code": "US-CA-074",
+    "state": "California"
+  },
+  {
+    "name": "Oxnard",
+    "code": "US-CA-075",
+    "state": "California"
+  },
+  {
+    "name": "Pacific Grove",
+    "code": "US-CA-076",
+    "state": "California"
+  },
+  {
+    "name": "Palm Springs",
+    "code": "US-CA-077",
+    "state": "California"
+  },
+  {
+    "name": "Palmdale",
+    "code": "US-CA-078",
+    "state": "California"
+  },
+  {
+    "name": "Palo Alto",
+    "code": "US-CA-079",
+    "state": "California"
+  },
+  {
+    "name": "Pasadena",
+    "code": "US-CA-080",
+    "state": "California"
+  },
+  {
+    "name": "Petaluma",
+    "code": "US-CA-081",
+    "state": "California"
+  },
+  {
+    "name": "Pomona",
+    "code": "US-CA-082",
+    "state": "California"
+  },
+  {
+    "name": "Port Hueneme",
+    "code": "US-CA-083",
+    "state": "California"
+  },
+  {
+    "name": "Rancho Cucamonga",
+    "code": "US-CA-084",
+    "state": "California"
+  },
+  {
+    "name": "Red Bluff",
+    "code": "US-CA-085",
+    "state": "California"
+  },
+  {
+    "name": "Redding",
+    "code": "US-CA-086",
+    "state": "California"
+  },
+  {
+    "name": "Redlands",
+    "code": "US-CA-087",
+    "state": "California"
+  },
+  {
+    "name": "Redondo Beach",
+    "code": "US-CA-088",
+    "state": "California"
+  },
+  {
+    "name": "Redwood City",
+    "code": "US-CA-089",
+    "state": "California"
+  },
+  {
+    "name": "Richmond",
+    "code": "US-CA-090",
+    "state": "California"
+  },
+  {
+    "name": "Riverside",
+    "code": "US-CA-091",
+    "state": "California"
+  },
+  {
+    "name": "Roseville",
+    "code": "US-CA-092",
+    "state": "California"
+  },
+  {
+    "name": "Sacramento",
+    "code": "US-CA-093",
+    "state": "California"
+  },
+  {
+    "name": "Salinas",
+    "code": "US-CA-094",
+    "state": "California"
+  },
+  {
+    "name": "San Bernardino",
+    "code": "US-CA-095",
+    "state": "California"
+  },
+  {
+    "name": "San Clemente",
+    "code": "US-CA-096",
+    "state": "California"
+  },
+  {
+    "name": "San Diego",
+    "code": "US-CA-097",
+    "state": "California"
+  },
+  {
+    "name": "San Fernando",
+    "code": "US-CA-098",
+    "state": "California"
+  },
+  {
+    "name": "San Francisco",
+    "code": "US-CA-099",
+    "state": "California"
+  },
+  {
+    "name": "San Gabriel",
+    "code": "US-CA-100",
+    "state": "California"
+  },
+  {
+    "name": "San Jose",
+    "code": "US-CA-101",
+    "state": "California"
+  },
+  {
+    "name": "San Juan Capistrano",
+    "code": "US-CA-102",
+    "state": "California"
+  },
+  {
+    "name": "San Leandro",
+    "code": "US-CA-103",
+    "state": "California"
+  },
+  {
+    "name": "San Luis Obispo",
+    "code": "US-CA-104",
+    "state": "California"
+  },
+  {
+    "name": "San Marino",
+    "code": "US-CA-105",
+    "state": "California"
+  },
+  {
+    "name": "San Mateo",
+    "code": "US-CA-106",
+    "state": "California"
+  },
+  {
+    "name": "San Pedro",
+    "code": "US-CA-107",
+    "state": "California"
+  },
+  {
+    "name": "San Rafael",
+    "code": "US-CA-108",
+    "state": "California"
+  },
+  {
+    "name": "San Simeon",
+    "code": "US-CA-109",
+    "state": "California"
+  },
+  {
+    "name": "Santa Ana",
+    "code": "US-CA-110",
+    "state": "California"
+  },
+  {
+    "name": "Santa Barbara",
+    "code": "US-CA-111",
+    "state": "California"
+  },
+  {
+    "name": "Santa Clara",
+    "code": "US-CA-112",
+    "state": "California"
+  },
+  {
+    "name": "Santa Clarita",
+    "code": "US-CA-113",
+    "state": "California"
+  },
+  {
+    "name": "Santa Cruz",
+    "code": "US-CA-114",
+    "state": "California"
+  },
+  {
+    "name": "Santa Monica",
+    "code": "US-CA-115",
+    "state": "California"
+  },
+  {
+    "name": "Santa Rosa",
+    "code": "US-CA-116",
+    "state": "California"
+  },
+  {
+    "name": "Sausalito",
+    "code": "US-CA-117",
+    "state": "California"
+  },
+  {
+    "name": "Simi Valley",
+    "code": "US-CA-118",
+    "state": "California"
+  },
+  {
+    "name": "Sonoma",
+    "code": "US-CA-119",
+    "state": "California"
+  },
+  {
+    "name": "South San Francisco",
+    "code": "US-CA-120",
+    "state": "California"
+  },
+  {
+    "name": "Stockton",
+    "code": "US-CA-121",
+    "state": "California"
+  },
+  {
+    "name": "Sunnyvale",
+    "code": "US-CA-122",
+    "state": "California"
+  },
+  {
+    "name": "Susanville",
+    "code": "US-CA-123",
+    "state": "California"
+  },
+  {
+    "name": "Thousand Oaks",
+    "code": "US-CA-124",
+    "state": "California"
+  },
+  {
+    "name": "Torrance",
+    "code": "US-CA-125",
+    "state": "California"
+  },
+  {
+    "name": "Turlock",
+    "code": "US-CA-126",
+    "state": "California"
+  },
+  {
+    "name": "Ukiah",
+    "code": "US-CA-127",
+    "state": "California"
+  },
+  {
+    "name": "Vallejo",
+    "code": "US-CA-128",
+    "state": "California"
+  },
+  {
+    "name": "Ventura",
+    "code": "US-CA-129",
+    "state": "California"
+  },
+  {
+    "name": "Victorville",
+    "code": "US-CA-130",
+    "state": "California"
+  },
+  {
+    "name": "Visalia",
+    "code": "US-CA-131",
+    "state": "California"
+  },
+  {
+    "name": "Walnut Creek",
+    "code": "US-CA-132",
+    "state": "California"
+  },
+  {
+    "name": "Watts",
+    "code": "US-CA-133",
+    "state": "California"
+  },
+  {
+    "name": "West Covina",
+    "code": "US-CA-134",
+    "state": "California"
+  },
+  {
+    "name": "Whittier",
+    "code": "US-CA-135",
+    "state": "California"
+  },
+  {
+    "name": "Woodland",
+    "code": "US-CA-136",
+    "state": "California"
+  },
+  {
+    "name": "Yorba Linda",
+    "code": "US-CA-137",
+    "state": "California"
+  },
+  {
+    "name": "Yuba City",
+    "code": "US-CA-138",
+    "state": "California"
+  },
+  {
+    "name": "Alamosa",
+    "code": "US-CO-001",
+    "state": "Colorado"
+  },
+  {
+    "name": "Aspen",
+    "code": "US-CO-002",
+    "state": "Colorado"
+  },
+  {
+    "name": "Aurora",
+    "code": "US-CO-003",
+    "state": "Colorado"
+  },
+  {
+    "name": "Boulder",
+    "code": "US-CO-004",
+    "state": "Colorado"
+  },
+  {
+    "name": "Breckenridge",
+    "code": "US-CO-005",
+    "state": "Colorado"
+  },
+  {
+    "name": "Brighton",
+    "code": "US-CO-006",
+    "state": "Colorado"
+  },
+  {
+    "name": "Canon City",
+    "code": "US-CO-007",
+    "state": "Colorado"
+  },
+  {
+    "name": "Central City",
+    "code": "US-CO-008",
+    "state": "Colorado"
+  },
+  {
+    "name": "Climax",
+    "code": "US-CO-009",
+    "state": "Colorado"
+  },
+  {
+    "name": "Colorado Springs",
+    "code": "US-CO-010",
+    "state": "Colorado"
+  },
+  {
+    "name": "Cortez",
+    "code": "US-CO-011",
+    "state": "Colorado"
+  },
+  {
+    "name": "Cripple Creek",
+    "code": "US-CO-012",
+    "state": "Colorado"
+  },
+  {
+    "name": "Denver",
+    "code": "US-CO-013",
+    "state": "Colorado"
+  },
+  {
+    "name": "Durango",
+    "code": "US-CO-014",
+    "state": "Colorado"
+  },
+  {
+    "name": "Englewood",
+    "code": "US-CO-015",
+    "state": "Colorado"
+  },
+  {
+    "name": "Estes Park",
+    "code": "US-CO-016",
+    "state": "Colorado"
+  },
+  {
+    "name": "Fort Collins",
+    "code": "US-CO-017",
+    "state": "Colorado"
+  },
+  {
+    "name": "Fort Morgan",
+    "code": "US-CO-018",
+    "state": "Colorado"
+  },
+  {
+    "name": "Georgetown",
+    "code": "US-CO-019",
+    "state": "Colorado"
+  },
+  {
+    "name": "Glenwood Springs",
+    "code": "US-CO-020",
+    "state": "Colorado"
+  },
+  {
+    "name": "Golden",
+    "code": "US-CO-021",
+    "state": "Colorado"
+  },
+  {
+    "name": "Grand Junction",
+    "code": "US-CO-022",
+    "state": "Colorado"
+  },
+  {
+    "name": "Greeley",
+    "code": "US-CO-023",
+    "state": "Colorado"
+  },
+  {
+    "name": "Gunnison",
+    "code": "US-CO-024",
+    "state": "Colorado"
+  },
+  {
+    "name": "La Junta",
+    "code": "US-CO-025",
+    "state": "Colorado"
+  },
+  {
+    "name": "Leadville",
+    "code": "US-CO-026",
+    "state": "Colorado"
+  },
+  {
+    "name": "Littleton",
+    "code": "US-CO-027",
+    "state": "Colorado"
+  },
+  {
+    "name": "Longmont",
+    "code": "US-CO-028",
+    "state": "Colorado"
+  },
+  {
+    "name": "Loveland",
+    "code": "US-CO-029",
+    "state": "Colorado"
+  },
+  {
+    "name": "Montrose",
+    "code": "US-CO-030",
+    "state": "Colorado"
+  },
+  {
+    "name": "Ouray",
+    "code": "US-CO-031",
+    "state": "Colorado"
+  },
+  {
+    "name": "Pagosa Springs",
+    "code": "US-CO-032",
+    "state": "Colorado"
+  },
+  {
+    "name": "Pueblo",
+    "code": "US-CO-033",
+    "state": "Colorado"
+  },
+  {
+    "name": "Silverton",
+    "code": "US-CO-034",
+    "state": "Colorado"
+  },
+  {
+    "name": "Steamboat Springs",
+    "code": "US-CO-035",
+    "state": "Colorado"
+  },
+  {
+    "name": "Sterling",
+    "code": "US-CO-036",
+    "state": "Colorado"
+  },
+  {
+    "name": "Telluride",
+    "code": "US-CO-037",
+    "state": "Colorado"
+  },
+  {
+    "name": "Trinidad",
+    "code": "US-CO-038",
+    "state": "Colorado"
+  },
+  {
+    "name": "Vail",
+    "code": "US-CO-039",
+    "state": "Colorado"
+  },
+  {
+    "name": "Walsenburg",
+    "code": "US-CO-040",
+    "state": "Colorado"
+  },
+  {
+    "name": "Westminster",
+    "code": "US-CO-041",
+    "state": "Colorado"
+  },
+  {
+    "name": "Ansonia",
+    "code": "US-CT-001",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Berlin",
+    "code": "US-CT-002",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Bloomfield",
+    "code": "US-CT-003",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Branford",
+    "code": "US-CT-004",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Bridgeport",
+    "code": "US-CT-005",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Bristol",
+    "code": "US-CT-006",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Coventry",
+    "code": "US-CT-007",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Danbury",
+    "code": "US-CT-008",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Darien",
+    "code": "US-CT-009",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Derby",
+    "code": "US-CT-010",
+    "state": "Connecticut"
+  },
+  {
+    "name": "East Hartford",
+    "code": "US-CT-011",
+    "state": "Connecticut"
+  },
+  {
+    "name": "East Haven",
+    "code": "US-CT-012",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Enfield",
+    "code": "US-CT-013",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Fairfield",
+    "code": "US-CT-014",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Farmington",
+    "code": "US-CT-015",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Greenwich",
+    "code": "US-CT-016",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Groton",
+    "code": "US-CT-017",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Guilford",
+    "code": "US-CT-018",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Hamden",
+    "code": "US-CT-019",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Hartford",
+    "code": "US-CT-020",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Lebanon",
+    "code": "US-CT-021",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Litchfield",
+    "code": "US-CT-022",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Manchester",
+    "code": "US-CT-023",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Mansfield",
+    "code": "US-CT-024",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Meriden",
+    "code": "US-CT-025",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Middletown",
+    "code": "US-CT-026",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Milford",
+    "code": "US-CT-027",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Mystic",
+    "code": "US-CT-028",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Naugatuck",
+    "code": "US-CT-029",
+    "state": "Connecticut"
+  },
+  {
+    "name": "New Britain",
+    "code": "US-CT-030",
+    "state": "Connecticut"
+  },
+  {
+    "name": "New Haven",
+    "code": "US-CT-031",
+    "state": "Connecticut"
+  },
+  {
+    "name": "New London",
+    "code": "US-CT-032",
+    "state": "Connecticut"
+  },
+  {
+    "name": "North Haven",
+    "code": "US-CT-033",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Norwalk",
+    "code": "US-CT-034",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Norwich",
+    "code": "US-CT-035",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Old Saybrook",
+    "code": "US-CT-036",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Orange",
+    "code": "US-CT-037",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Seymour",
+    "code": "US-CT-038",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Shelton",
+    "code": "US-CT-039",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Simsbury",
+    "code": "US-CT-040",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Southington",
+    "code": "US-CT-041",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Stamford",
+    "code": "US-CT-042",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Stonington",
+    "code": "US-CT-043",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Stratford",
+    "code": "US-CT-044",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Torrington",
+    "code": "US-CT-045",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Wallingford",
+    "code": "US-CT-046",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Waterbury",
+    "code": "US-CT-047",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Waterford",
+    "code": "US-CT-048",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Watertown",
+    "code": "US-CT-049",
+    "state": "Connecticut"
+  },
+  {
+    "name": "West Hartford",
+    "code": "US-CT-050",
+    "state": "Connecticut"
+  },
+  {
+    "name": "West Haven",
+    "code": "US-CT-051",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Westport",
+    "code": "US-CT-052",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Wethersfield",
+    "code": "US-CT-053",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Willimantic",
+    "code": "US-CT-054",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Windham",
+    "code": "US-CT-055",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Windsor",
+    "code": "US-CT-056",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Windsor Locks",
+    "code": "US-CT-057",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Winsted",
+    "code": "US-CT-058",
+    "state": "Connecticut"
+  },
+  {
+    "name": "Dover",
+    "code": "US-DE-001",
+    "state": "Delaware"
+  },
+  {
+    "name": "Lewes",
+    "code": "US-DE-002",
+    "state": "Delaware"
+  },
+  {
+    "name": "Milford",
+    "code": "US-DE-003",
+    "state": "Delaware"
+  },
+  {
+    "name": "New Castle",
+    "code": "US-DE-004",
+    "state": "Delaware"
+  },
+  {
+    "name": "Newark",
+    "code": "US-DE-005",
+    "state": "Delaware"
+  },
+  {
+    "name": "Smyrna",
+    "code": "US-DE-006",
+    "state": "Delaware"
+  },
+  {
+    "name": "Wilmington",
+    "code": "US-DE-007",
+    "state": "Delaware"
+  },
+  {
+    "name": "Apalachicola",
+    "code": "US-FL-001",
+    "state": "Florida"
+  },
+  {
+    "name": "Bartow",
+    "code": "US-FL-002",
+    "state": "Florida"
+  },
+  {
+    "name": "Belle Glade",
+    "code": "US-FL-003",
+    "state": "Florida"
+  },
+  {
+    "name": "Boca Raton",
+    "code": "US-FL-004",
+    "state": "Florida"
+  },
+  {
+    "name": "Bradenton",
+    "code": "US-FL-005",
+    "state": "Florida"
+  },
+  {
+    "name": "Cape Coral",
+    "code": "US-FL-006",
+    "state": "Florida"
+  },
+  {
+    "name": "Clearwater",
+    "code": "US-FL-007",
+    "state": "Florida"
+  },
+  {
+    "name": "Cocoa Beach",
+    "code": "US-FL-008",
+    "state": "Florida"
+  },
+  {
+    "name": "Cocoa-Rockledge",
+    "code": "US-FL-009",
+    "state": "Florida"
+  },
+  {
+    "name": "Coral Gables",
+    "code": "US-FL-010",
+    "state": "Florida"
+  },
+  {
+    "name": "Daytona Beach",
+    "code": "US-FL-011",
+    "state": "Florida"
+  },
+  {
+    "name": "De Land",
+    "code": "US-FL-012",
+    "state": "Florida"
+  },
+  {
+    "name": "Deerfield Beach",
+    "code": "US-FL-013",
+    "state": "Florida"
+  },
+  {
+    "name": "Delray Beach",
+    "code": "US-FL-014",
+    "state": "Florida"
+  },
+  {
+    "name": "Fernandina Beach",
+    "code": "US-FL-015",
+    "state": "Florida"
+  },
+  {
+    "name": "Fort Lauderdale",
+    "code": "US-FL-016",
+    "state": "Florida"
+  },
+  {
+    "name": "Fort Myers",
+    "code": "US-FL-017",
+    "state": "Florida"
+  },
+  {
+    "name": "Fort Pierce",
+    "code": "US-FL-018",
+    "state": "Florida"
+  },
+  {
+    "name": "Fort Walton Beach",
+    "code": "US-FL-019",
+    "state": "Florida"
+  },
+  {
+    "name": "Gainesville",
+    "code": "US-FL-020",
+    "state": "Florida"
+  },
+  {
+    "name": "Hallandale Beach",
+    "code": "US-FL-021",
+    "state": "Florida"
+  },
+  {
+    "name": "Hialeah",
+    "code": "US-FL-022",
+    "state": "Florida"
+  },
+  {
+    "name": "Hollywood",
+    "code": "US-FL-023",
+    "state": "Florida"
+  },
+  {
+    "name": "Homestead",
+    "code": "US-FL-024",
+    "state": "Florida"
+  },
+  {
+    "name": "Jacksonville",
+    "code": "US-FL-025",
+    "state": "Florida"
+  },
+  {
+    "name": "Key West",
+    "code": "US-FL-026",
+    "state": "Florida"
+  },
+  {
+    "name": "Lake City",
+    "code": "US-FL-027",
+    "state": "Florida"
+  },
+  {
+    "name": "Lake Wales",
+    "code": "US-FL-028",
+    "state": "Florida"
+  },
+  {
+    "name": "Lakeland",
+    "code": "US-FL-029",
+    "state": "Florida"
+  },
+  {
+    "name": "Largo",
+    "code": "US-FL-030",
+    "state": "Florida"
+  },
+  {
+    "name": "Melbourne",
+    "code": "US-FL-031",
+    "state": "Florida"
+  },
+  {
+    "name": "Miami",
+    "code": "US-FL-032",
+    "state": "Florida"
+  },
+  {
+    "name": "Miami Beach",
+    "code": "US-FL-033",
+    "state": "Florida"
+  },
+  {
+    "name": "Naples",
+    "code": "US-FL-034",
+    "state": "Florida"
+  },
+  {
+    "name": "New Smyrna Beach",
+    "code": "US-FL-035",
+    "state": "Florida"
+  },
+  {
+    "name": "Ocala",
+    "code": "US-FL-036",
+    "state": "Florida"
+  },
+  {
+    "name": "Orlando",
+    "code": "US-FL-037",
+    "state": "Florida"
+  },
+  {
+    "name": "Ormond Beach",
+    "code": "US-FL-038",
+    "state": "Florida"
+  },
+  {
+    "name": "Palatka",
+    "code": "US-FL-039",
+    "state": "Florida"
+  },
+  {
+    "name": "Palm Bay",
+    "code": "US-FL-040",
+    "state": "Florida"
+  },
+  {
+    "name": "Palm Beach",
+    "code": "US-FL-041",
+    "state": "Florida"
+  },
+  {
+    "name": "Panama City",
+    "code": "US-FL-042",
+    "state": "Florida"
+  },
+  {
+    "name": "Pensacola",
+    "code": "US-FL-043",
+    "state": "Florida"
+  },
+  {
+    "name": "Pompano Beach",
+    "code": "US-FL-044",
+    "state": "Florida"
+  },
+  {
+    "name": "Saint Augustine",
+    "code": "US-FL-045",
+    "state": "Florida"
+  },
+  {
+    "name": "Saint Petersburg",
+    "code": "US-FL-046",
+    "state": "Florida"
+  },
+  {
+    "name": "Sanford",
+    "code": "US-FL-047",
+    "state": "Florida"
+  },
+  {
+    "name": "Sarasota",
+    "code": "US-FL-048",
+    "state": "Florida"
+  },
+  {
+    "name": "Sebring",
+    "code": "US-FL-049",
+    "state": "Florida"
+  },
+  {
+    "name": "Tallahassee",
+    "code": "US-FL-050",
+    "state": "Florida"
+  },
+  {
+    "name": "Tampa",
+    "code": "US-FL-051",
+    "state": "Florida"
+  },
+  {
+    "name": "Tarpon Springs",
+    "code": "US-FL-052",
+    "state": "Florida"
+  },
+  {
+    "name": "Titusville",
+    "code": "US-FL-053",
+    "state": "Florida"
+  },
+  {
+    "name": "Venice",
+    "code": "US-FL-054",
+    "state": "Florida"
+  },
+  {
+    "name": "West Palm Beach",
+    "code": "US-FL-055",
+    "state": "Florida"
+  },
+  {
+    "name": "White Springs",
+    "code": "US-FL-056",
+    "state": "Florida"
+  },
+  {
+    "name": "Winter Haven",
+    "code": "US-FL-057",
+    "state": "Florida"
+  },
+  {
+    "name": "Winter Park",
+    "code": "US-FL-058",
+    "state": "Florida"
+  },
+  {
+    "name": "Albany",
+    "code": "US-GA-001",
+    "state": "Georgia"
+  },
+  {
+    "name": "Americus",
+    "code": "US-GA-002",
+    "state": "Georgia"
+  },
+  {
+    "name": "Andersonville",
+    "code": "US-GA-003",
+    "state": "Georgia"
+  },
+  {
+    "name": "Athens",
+    "code": "US-GA-004",
+    "state": "Georgia"
+  },
+  {
+    "name": "Atlanta",
+    "code": "US-GA-005",
+    "state": "Georgia"
+  },
+  {
+    "name": "Augusta",
+    "code": "US-GA-006",
+    "state": "Georgia"
+  },
+  {
+    "name": "Bainbridge",
+    "code": "US-GA-007",
+    "state": "Georgia"
+  },
+  {
+    "name": "Blairsville",
+    "code": "US-GA-008",
+    "state": "Georgia"
+  },
+  {
+    "name": "Brunswick",
+    "code": "US-GA-009",
+    "state": "Georgia"
+  },
+  {
+    "name": "Calhoun",
+    "code": "US-GA-010",
+    "state": "Georgia"
+  },
+  {
+    "name": "Carrollton",
+    "code": "US-GA-011",
+    "state": "Georgia"
+  },
+  {
+    "name": "Columbus",
+    "code": "US-GA-012",
+    "state": "Georgia"
+  },
+  {
+    "name": "Dahlonega",
+    "code": "US-GA-013",
+    "state": "Georgia"
+  },
+  {
+    "name": "Dalton",
+    "code": "US-GA-014",
+    "state": "Georgia"
+  },
+  {
+    "name": "Darien",
+    "code": "US-GA-015",
+    "state": "Georgia"
+  },
+  {
+    "name": "Decatur",
+    "code": "US-GA-016",
+    "state": "Georgia"
+  },
+  {
+    "name": "Douglas",
+    "code": "US-GA-017",
+    "state": "Georgia"
+  },
+  {
+    "name": "East Point",
+    "code": "US-GA-018",
+    "state": "Georgia"
+  },
+  {
+    "name": "Fitzgerald",
+    "code": "US-GA-019",
+    "state": "Georgia"
+  },
+  {
+    "name": "Fort Valley",
+    "code": "US-GA-020",
+    "state": "Georgia"
+  },
+  {
+    "name": "Gainesville",
+    "code": "US-GA-021",
+    "state": "Georgia"
+  },
+  {
+    "name": "La Grange",
+    "code": "US-GA-022",
+    "state": "Georgia"
+  },
+  {
+    "name": "Macon",
+    "code": "US-GA-023",
+    "state": "Georgia"
+  },
+  {
+    "name": "Marietta",
+    "code": "US-GA-024",
+    "state": "Georgia"
+  },
+  {
+    "name": "Milledgeville",
+    "code": "US-GA-025",
+    "state": "Georgia"
+  },
+  {
+    "name": "Plains",
+    "code": "US-GA-026",
+    "state": "Georgia"
+  },
+  {
+    "name": "Rome",
+    "code": "US-GA-027",
+    "state": "Georgia"
+  },
+  {
+    "name": "Savannah",
+    "code": "US-GA-028",
+    "state": "Georgia"
+  },
+  {
+    "name": "Toccoa",
+    "code": "US-GA-029",
+    "state": "Georgia"
+  },
+  {
+    "name": "Valdosta",
+    "code": "US-GA-030",
+    "state": "Georgia"
+  },
+  {
+    "name": "Warm Springs",
+    "code": "US-GA-031",
+    "state": "Georgia"
+  },
+  {
+    "name": "Warner Robins",
+    "code": "US-GA-032",
+    "state": "Georgia"
+  },
+  {
+    "name": "Washington",
+    "code": "US-GA-033",
+    "state": "Georgia"
+  },
+  {
+    "name": "Waycross",
+    "code": "US-GA-034",
+    "state": "Georgia"
+  },
+  {
+    "name": "Hanalei",
+    "code": "US-HI-001",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Hilo",
+    "code": "US-HI-002",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Honaunau",
+    "code": "US-HI-003",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Honolulu",
+    "code": "US-HI-004",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Kahului",
+    "code": "US-HI-005",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Kaneohe",
+    "code": "US-HI-006",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Kapaa",
+    "code": "US-HI-007",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Kawaihae",
+    "code": "US-HI-008",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Lahaina",
+    "code": "US-HI-009",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Laie",
+    "code": "US-HI-010",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Wahiawa",
+    "code": "US-HI-011",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Wailuku",
+    "code": "US-HI-012",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Waimea",
+    "code": "US-HI-013",
+    "state": "Hawaii"
+  },
+  {
+    "name": "Blackfoot",
+    "code": "US-ID-001",
+    "state": "Idaho"
+  },
+  {
+    "name": "Boise",
+    "code": "US-ID-002",
+    "state": "Idaho"
+  },
+  {
+    "name": "Bonners Ferry",
+    "code": "US-ID-003",
+    "state": "Idaho"
+  },
+  {
+    "name": "Caldwell",
+    "code": "US-ID-004",
+    "state": "Idaho"
+  },
+  {
+    "name": "Coeur d’Alene",
+    "code": "US-ID-005",
+    "state": "Idaho"
+  },
+  {
+    "name": "Idaho City",
+    "code": "US-ID-006",
+    "state": "Idaho"
+  },
+  {
+    "name": "Idaho Falls",
+    "code": "US-ID-007",
+    "state": "Idaho"
+  },
+  {
+    "name": "Kellogg",
+    "code": "US-ID-008",
+    "state": "Idaho"
+  },
+  {
+    "name": "Lewiston",
+    "code": "US-ID-009",
+    "state": "Idaho"
+  },
+  {
+    "name": "Moscow",
+    "code": "US-ID-010",
+    "state": "Idaho"
+  },
+  {
+    "name": "Nampa",
+    "code": "US-ID-011",
+    "state": "Idaho"
+  },
+  {
+    "name": "Pocatello",
+    "code": "US-ID-012",
+    "state": "Idaho"
+  },
+  {
+    "name": "Priest River",
+    "code": "US-ID-013",
+    "state": "Idaho"
+  },
+  {
+    "name": "Rexburg",
+    "code": "US-ID-014",
+    "state": "Idaho"
+  },
+  {
+    "name": "Sun Valley",
+    "code": "US-ID-015",
+    "state": "Idaho"
+  },
+  {
+    "name": "Twin Falls",
+    "code": "US-ID-016",
+    "state": "Idaho"
+  },
+  {
+    "name": "Alton",
+    "code": "US-IL-001",
+    "state": "Illinois"
+  },
+  {
+    "name": "Arlington Heights",
+    "code": "US-IL-002",
+    "state": "Illinois"
+  },
+  {
+    "name": "Arthur",
+    "code": "US-IL-003",
+    "state": "Illinois"
+  },
+  {
+    "name": "Aurora",
+    "code": "US-IL-004",
+    "state": "Illinois"
+  },
+  {
+    "name": "Belleville",
+    "code": "US-IL-005",
+    "state": "Illinois"
+  },
+  {
+    "name": "Belvidere",
+    "code": "US-IL-006",
+    "state": "Illinois"
+  },
+  {
+    "name": "Bloomington",
+    "code": "US-IL-007",
+    "state": "Illinois"
+  },
+  {
+    "name": "Brookfield",
+    "code": "US-IL-008",
+    "state": "Illinois"
+  },
+  {
+    "name": "Cahokia",
+    "code": "US-IL-009",
+    "state": "Illinois"
+  },
+  {
+    "name": "Cairo",
+    "code": "US-IL-010",
+    "state": "Illinois"
+  },
+  {
+    "name": "Calumet City",
+    "code": "US-IL-011",
+    "state": "Illinois"
+  },
+  {
+    "name": "Canton",
+    "code": "US-IL-012",
+    "state": "Illinois"
+  },
+  {
+    "name": "Carbondale",
+    "code": "US-IL-013",
+    "state": "Illinois"
+  },
+  {
+    "name": "Carlinville",
+    "code": "US-IL-014",
+    "state": "Illinois"
+  },
+  {
+    "name": "Carthage",
+    "code": "US-IL-015",
+    "state": "Illinois"
+  },
+  {
+    "name": "Centralia",
+    "code": "US-IL-016",
+    "state": "Illinois"
+  },
+  {
+    "name": "Champaign",
+    "code": "US-IL-017",
+    "state": "Illinois"
+  },
+  {
+    "name": "Charleston",
+    "code": "US-IL-018",
+    "state": "Illinois"
+  },
+  {
+    "name": "Chester",
+    "code": "US-IL-019",
+    "state": "Illinois"
+  },
+  {
+    "name": "Chicago",
+    "code": "US-IL-020",
+    "state": "Illinois"
+  },
+  {
+    "name": "Chicago Heights",
+    "code": "US-IL-021",
+    "state": "Illinois"
+  },
+  {
+    "name": "Cicero",
+    "code": "US-IL-022",
+    "state": "Illinois"
+  },
+  {
+    "name": "Collinsville",
+    "code": "US-IL-023",
+    "state": "Illinois"
+  },
+  {
+    "name": "Danville",
+    "code": "US-IL-024",
+    "state": "Illinois"
+  },
+  {
+    "name": "Decatur",
+    "code": "US-IL-025",
+    "state": "Illinois"
+  },
+  {
+    "name": "DeKalb",
+    "code": "US-IL-026",
+    "state": "Illinois"
+  },
+  {
+    "name": "Des Plaines",
+    "code": "US-IL-027",
+    "state": "Illinois"
+  },
+  {
+    "name": "Dixon",
+    "code": "US-IL-028",
+    "state": "Illinois"
+  },
+  {
+    "name": "East Moline",
+    "code": "US-IL-029",
+    "state": "Illinois"
+  },
+  {
+    "name": "East Saint Louis",
+    "code": "US-IL-030",
+    "state": "Illinois"
+  },
+  {
+    "name": "Effingham",
+    "code": "US-IL-031",
+    "state": "Illinois"
+  },
+  {
+    "name": "Elgin",
+    "code": "US-IL-032",
+    "state": "Illinois"
+  },
+  {
+    "name": "Elmhurst",
+    "code": "US-IL-033",
+    "state": "Illinois"
+  },
+  {
+    "name": "Evanston",
+    "code": "US-IL-034",
+    "state": "Illinois"
+  },
+  {
+    "name": "Freeport",
+    "code": "US-IL-035",
+    "state": "Illinois"
+  },
+  {
+    "name": "Galena",
+    "code": "US-IL-036",
+    "state": "Illinois"
+  },
+  {
+    "name": "Galesburg",
+    "code": "US-IL-037",
+    "state": "Illinois"
+  },
+  {
+    "name": "Glen Ellyn",
+    "code": "US-IL-038",
+    "state": "Illinois"
+  },
+  {
+    "name": "Glenview",
+    "code": "US-IL-039",
+    "state": "Illinois"
+  },
+  {
+    "name": "Granite City",
+    "code": "US-IL-040",
+    "state": "Illinois"
+  },
+  {
+    "name": "Harrisburg",
+    "code": "US-IL-041",
+    "state": "Illinois"
+  },
+  {
+    "name": "Herrin",
+    "code": "US-IL-042",
+    "state": "Illinois"
+  },
+  {
+    "name": "Highland Park",
+    "code": "US-IL-043",
+    "state": "Illinois"
+  },
+  {
+    "name": "Jacksonville",
+    "code": "US-IL-044",
+    "state": "Illinois"
+  },
+  {
+    "name": "Joliet",
+    "code": "US-IL-045",
+    "state": "Illinois"
+  },
+  {
+    "name": "Kankakee",
+    "code": "US-IL-046",
+    "state": "Illinois"
+  },
+  {
+    "name": "Kaskaskia",
+    "code": "US-IL-047",
+    "state": "Illinois"
+  },
+  {
+    "name": "Kewanee",
+    "code": "US-IL-048",
+    "state": "Illinois"
+  },
+  {
+    "name": "La Salle",
+    "code": "US-IL-049",
+    "state": "Illinois"
+  },
+  {
+    "name": "Lake Forest",
+    "code": "US-IL-050",
+    "state": "Illinois"
+  },
+  {
+    "name": "Libertyville",
+    "code": "US-IL-051",
+    "state": "Illinois"
+  },
+  {
+    "name": "Lincoln",
+    "code": "US-IL-052",
+    "state": "Illinois"
+  },
+  {
+    "name": "Lisle",
+    "code": "US-IL-053",
+    "state": "Illinois"
+  },
+  {
+    "name": "Lombard",
+    "code": "US-IL-054",
+    "state": "Illinois"
+  },
+  {
+    "name": "Macomb",
+    "code": "US-IL-055",
+    "state": "Illinois"
+  },
+  {
+    "name": "Mattoon",
+    "code": "US-IL-056",
+    "state": "Illinois"
+  },
+  {
+    "name": "Moline",
+    "code": "US-IL-057",
+    "state": "Illinois"
+  },
+  {
+    "name": "Monmouth",
+    "code": "US-IL-058",
+    "state": "Illinois"
+  },
+  {
+    "name": "Mount Vernon",
+    "code": "US-IL-059",
+    "state": "Illinois"
+  },
+  {
+    "name": "Mundelein",
+    "code": "US-IL-060",
+    "state": "Illinois"
+  },
+  {
+    "name": "Naperville",
+    "code": "US-IL-061",
+    "state": "Illinois"
+  },
+  {
+    "name": "Nauvoo",
+    "code": "US-IL-062",
+    "state": "Illinois"
+  },
+  {
+    "name": "Normal",
+    "code": "US-IL-063",
+    "state": "Illinois"
+  },
+  {
+    "name": "North Chicago",
+    "code": "US-IL-064",
+    "state": "Illinois"
+  },
+  {
+    "name": "Oak Park",
+    "code": "US-IL-065",
+    "state": "Illinois"
+  },
+  {
+    "name": "Oregon",
+    "code": "US-IL-066",
+    "state": "Illinois"
+  },
+  {
+    "name": "Ottawa",
+    "code": "US-IL-067",
+    "state": "Illinois"
+  },
+  {
+    "name": "Palatine",
+    "code": "US-IL-068",
+    "state": "Illinois"
+  },
+  {
+    "name": "Park Forest",
+    "code": "US-IL-069",
+    "state": "Illinois"
+  },
+  {
+    "name": "Park Ridge",
+    "code": "US-IL-070",
+    "state": "Illinois"
+  },
+  {
+    "name": "Pekin",
+    "code": "US-IL-071",
+    "state": "Illinois"
+  },
+  {
+    "name": "Peoria",
+    "code": "US-IL-072",
+    "state": "Illinois"
+  },
+  {
+    "name": "Petersburg",
+    "code": "US-IL-073",
+    "state": "Illinois"
+  },
+  {
+    "name": "Pontiac",
+    "code": "US-IL-074",
+    "state": "Illinois"
+  },
+  {
+    "name": "Quincy",
+    "code": "US-IL-075",
+    "state": "Illinois"
+  },
+  {
+    "name": "Rantoul",
+    "code": "US-IL-076",
+    "state": "Illinois"
+  },
+  {
+    "name": "River Forest",
+    "code": "US-IL-077",
+    "state": "Illinois"
+  },
+  {
+    "name": "Rock Island",
+    "code": "US-IL-078",
+    "state": "Illinois"
+  },
+  {
+    "name": "Rockford",
+    "code": "US-IL-079",
+    "state": "Illinois"
+  },
+  {
+    "name": "Salem",
+    "code": "US-IL-080",
+    "state": "Illinois"
+  },
+  {
+    "name": "Shawneetown",
+    "code": "US-IL-081",
+    "state": "Illinois"
+  },
+  {
+    "name": "Skokie",
+    "code": "US-IL-082",
+    "state": "Illinois"
+  },
+  {
+    "name": "South Holland",
+    "code": "US-IL-083",
+    "state": "Illinois"
+  },
+  {
+    "name": "Springfield",
+    "code": "US-IL-084",
+    "state": "Illinois"
+  },
+  {
+    "name": "Streator",
+    "code": "US-IL-085",
+    "state": "Illinois"
+  },
+  {
+    "name": "Summit",
+    "code": "US-IL-086",
+    "state": "Illinois"
+  },
+  {
+    "name": "Urbana",
+    "code": "US-IL-087",
+    "state": "Illinois"
+  },
+  {
+    "name": "Vandalia",
+    "code": "US-IL-088",
+    "state": "Illinois"
+  },
+  {
+    "name": "Virden",
+    "code": "US-IL-089",
+    "state": "Illinois"
+  },
+  {
+    "name": "Waukegan",
+    "code": "US-IL-090",
+    "state": "Illinois"
+  },
+  {
+    "name": "Wheaton",
+    "code": "US-IL-091",
+    "state": "Illinois"
+  },
+  {
+    "name": "Wilmette",
+    "code": "US-IL-092",
+    "state": "Illinois"
+  },
+  {
+    "name": "Winnetka",
+    "code": "US-IL-093",
+    "state": "Illinois"
+  },
+  {
+    "name": "Wood River",
+    "code": "US-IL-094",
+    "state": "Illinois"
+  },
+  {
+    "name": "Zion",
+    "code": "US-IL-095",
+    "state": "Illinois"
+  },
+  {
+    "name": "Anderson",
+    "code": "US-IN-001",
+    "state": "Indiana"
+  },
+  {
+    "name": "Bedford",
+    "code": "US-IN-002",
+    "state": "Indiana"
+  },
+  {
+    "name": "Bloomington",
+    "code": "US-IN-003",
+    "state": "Indiana"
+  },
+  {
+    "name": "Columbus",
+    "code": "US-IN-004",
+    "state": "Indiana"
+  },
+  {
+    "name": "Connersville",
+    "code": "US-IN-005",
+    "state": "Indiana"
+  },
+  {
+    "name": "Corydon",
+    "code": "US-IN-006",
+    "state": "Indiana"
+  },
+  {
+    "name": "Crawfordsville",
+    "code": "US-IN-007",
+    "state": "Indiana"
+  },
+  {
+    "name": "East Chicago",
+    "code": "US-IN-008",
+    "state": "Indiana"
+  },
+  {
+    "name": "Elkhart",
+    "code": "US-IN-009",
+    "state": "Indiana"
+  },
+  {
+    "name": "Elwood",
+    "code": "US-IN-010",
+    "state": "Indiana"
+  },
+  {
+    "name": "Evansville",
+    "code": "US-IN-011",
+    "state": "Indiana"
+  },
+  {
+    "name": "Fort Wayne",
+    "code": "US-IN-012",
+    "state": "Indiana"
+  },
+  {
+    "name": "French Lick",
+    "code": "US-IN-013",
+    "state": "Indiana"
+  },
+  {
+    "name": "Gary",
+    "code": "US-IN-014",
+    "state": "Indiana"
+  },
+  {
+    "name": "Geneva",
+    "code": "US-IN-015",
+    "state": "Indiana"
+  },
+  {
+    "name": "Goshen",
+    "code": "US-IN-016",
+    "state": "Indiana"
+  },
+  {
+    "name": "Greenfield",
+    "code": "US-IN-017",
+    "state": "Indiana"
+  },
+  {
+    "name": "Hammond",
+    "code": "US-IN-018",
+    "state": "Indiana"
+  },
+  {
+    "name": "Hobart",
+    "code": "US-IN-019",
+    "state": "Indiana"
+  },
+  {
+    "name": "Huntington",
+    "code": "US-IN-020",
+    "state": "Indiana"
+  },
+  {
+    "name": "Indianapolis",
+    "code": "US-IN-021",
+    "state": "Indiana"
+  },
+  {
+    "name": "Jeffersonville",
+    "code": "US-IN-022",
+    "state": "Indiana"
+  },
+  {
+    "name": "Kokomo",
+    "code": "US-IN-023",
+    "state": "Indiana"
+  },
+  {
+    "name": "Lafayette",
+    "code": "US-IN-024",
+    "state": "Indiana"
+  },
+  {
+    "name": "Madison",
+    "code": "US-IN-025",
+    "state": "Indiana"
+  },
+  {
+    "name": "Marion",
+    "code": "US-IN-026",
+    "state": "Indiana"
+  },
+  {
+    "name": "Michigan City",
+    "code": "US-IN-027",
+    "state": "Indiana"
+  },
+  {
+    "name": "Mishawaka",
+    "code": "US-IN-028",
+    "state": "Indiana"
+  },
+  {
+    "name": "Muncie",
+    "code": "US-IN-029",
+    "state": "Indiana"
+  },
+  {
+    "name": "Nappanee",
+    "code": "US-IN-030",
+    "state": "Indiana"
+  },
+  {
+    "name": "Nashville",
+    "code": "US-IN-031",
+    "state": "Indiana"
+  },
+  {
+    "name": "New Albany",
+    "code": "US-IN-032",
+    "state": "Indiana"
+  },
+  {
+    "name": "New Castle",
+    "code": "US-IN-033",
+    "state": "Indiana"
+  },
+  {
+    "name": "New Harmony",
+    "code": "US-IN-034",
+    "state": "Indiana"
+  },
+  {
+    "name": "Peru",
+    "code": "US-IN-035",
+    "state": "Indiana"
+  },
+  {
+    "name": "Plymouth",
+    "code": "US-IN-036",
+    "state": "Indiana"
+  },
+  {
+    "name": "Richmond",
+    "code": "US-IN-037",
+    "state": "Indiana"
+  },
+  {
+    "name": "Santa Claus",
+    "code": "US-IN-038",
+    "state": "Indiana"
+  },
+  {
+    "name": "Shelbyville",
+    "code": "US-IN-039",
+    "state": "Indiana"
+  },
+  {
+    "name": "South Bend",
+    "code": "US-IN-040",
+    "state": "Indiana"
+  },
+  {
+    "name": "Terre Haute",
+    "code": "US-IN-041",
+    "state": "Indiana"
+  },
+  {
+    "name": "Valparaiso",
+    "code": "US-IN-042",
+    "state": "Indiana"
+  },
+  {
+    "name": "Vincennes",
+    "code": "US-IN-043",
+    "state": "Indiana"
+  },
+  {
+    "name": "Wabash",
+    "code": "US-IN-044",
+    "state": "Indiana"
+  },
+  {
+    "name": "West Lafayette",
+    "code": "US-IN-045",
+    "state": "Indiana"
+  },
+  {
+    "name": "Amana Colonies",
+    "code": "US-IA-001",
+    "state": "Iowa"
+  },
+  {
+    "name": "Ames",
+    "code": "US-IA-002",
+    "state": "Iowa"
+  },
+  {
+    "name": "Boone",
+    "code": "US-IA-003",
+    "state": "Iowa"
+  },
+  {
+    "name": "Burlington",
+    "code": "US-IA-004",
+    "state": "Iowa"
+  },
+  {
+    "name": "Cedar Falls",
+    "code": "US-IA-005",
+    "state": "Iowa"
+  },
+  {
+    "name": "Cedar Rapids",
+    "code": "US-IA-006",
+    "state": "Iowa"
+  },
+  {
+    "name": "Charles City",
+    "code": "US-IA-007",
+    "state": "Iowa"
+  },
+  {
+    "name": "Cherokee",
+    "code": "US-IA-008",
+    "state": "Iowa"
+  },
+  {
+    "name": "Clinton",
+    "code": "US-IA-009",
+    "state": "Iowa"
+  },
+  {
+    "name": "Council Bluffs",
+    "code": "US-IA-010",
+    "state": "Iowa"
+  },
+  {
+    "name": "Davenport",
+    "code": "US-IA-011",
+    "state": "Iowa"
+  },
+  {
+    "name": "Des Moines",
+    "code": "US-IA-012",
+    "state": "Iowa"
+  },
+  {
+    "name": "Dubuque",
+    "code": "US-IA-013",
+    "state": "Iowa"
+  },
+  {
+    "name": "Estherville",
+    "code": "US-IA-014",
+    "state": "Iowa"
+  },
+  {
+    "name": "Fairfield",
+    "code": "US-IA-015",
+    "state": "Iowa"
+  },
+  {
+    "name": "Fort Dodge",
+    "code": "US-IA-016",
+    "state": "Iowa"
+  },
+  {
+    "name": "Grinnell",
+    "code": "US-IA-017",
+    "state": "Iowa"
+  },
+  {
+    "name": "Indianola",
+    "code": "US-IA-018",
+    "state": "Iowa"
+  },
+  {
+    "name": "Iowa City",
+    "code": "US-IA-019",
+    "state": "Iowa"
+  },
+  {
+    "name": "Keokuk",
+    "code": "US-IA-020",
+    "state": "Iowa"
+  },
+  {
+    "name": "Mason City",
+    "code": "US-IA-021",
+    "state": "Iowa"
+  },
+  {
+    "name": "Mount Pleasant",
+    "code": "US-IA-022",
+    "state": "Iowa"
+  },
+  {
+    "name": "Muscatine",
+    "code": "US-IA-023",
+    "state": "Iowa"
+  },
+  {
+    "name": "Newton",
+    "code": "US-IA-024",
+    "state": "Iowa"
+  },
+  {
+    "name": "Oskaloosa",
+    "code": "US-IA-025",
+    "state": "Iowa"
+  },
+  {
+    "name": "Ottumwa",
+    "code": "US-IA-026",
+    "state": "Iowa"
+  },
+  {
+    "name": "Sioux City",
+    "code": "US-IA-027",
+    "state": "Iowa"
+  },
+  {
+    "name": "Waterloo",
+    "code": "US-IA-028",
+    "state": "Iowa"
+  },
+  {
+    "name": "Webster City",
+    "code": "US-IA-029",
+    "state": "Iowa"
+  },
+  {
+    "name": "West Des Moines",
+    "code": "US-IA-030",
+    "state": "Iowa"
+  },
+  {
+    "name": "Abilene",
+    "code": "US-KS-001",
+    "state": "Kansas"
+  },
+  {
+    "name": "Arkansas City",
+    "code": "US-KS-002",
+    "state": "Kansas"
+  },
+  {
+    "name": "Atchison",
+    "code": "US-KS-003",
+    "state": "Kansas"
+  },
+  {
+    "name": "Chanute",
+    "code": "US-KS-004",
+    "state": "Kansas"
+  },
+  {
+    "name": "Coffeyville",
+    "code": "US-KS-005",
+    "state": "Kansas"
+  },
+  {
+    "name": "Council Grove",
+    "code": "US-KS-006",
+    "state": "Kansas"
+  },
+  {
+    "name": "Dodge City",
+    "code": "US-KS-007",
+    "state": "Kansas"
+  },
+  {
+    "name": "Emporia",
+    "code": "US-KS-008",
+    "state": "Kansas"
+  },
+  {
+    "name": "Fort Scott",
+    "code": "US-KS-009",
+    "state": "Kansas"
+  },
+  {
+    "name": "Garden City",
+    "code": "US-KS-010",
+    "state": "Kansas"
+  },
+  {
+    "name": "Great Bend",
+    "code": "US-KS-011",
+    "state": "Kansas"
+  },
+  {
+    "name": "Hays",
+    "code": "US-KS-012",
+    "state": "Kansas"
+  },
+  {
+    "name": "Hutchinson",
+    "code": "US-KS-013",
+    "state": "Kansas"
+  },
+  {
+    "name": "Independence",
+    "code": "US-KS-014",
+    "state": "Kansas"
+  },
+  {
+    "name": "Junction City",
+    "code": "US-KS-015",
+    "state": "Kansas"
+  },
+  {
+    "name": "Kansas City",
+    "code": "US-KS-016",
+    "state": "Kansas"
+  },
+  {
+    "name": "Lawrence",
+    "code": "US-KS-017",
+    "state": "Kansas"
+  },
+  {
+    "name": "Leavenworth",
+    "code": "US-KS-018",
+    "state": "Kansas"
+  },
+  {
+    "name": "Liberal",
+    "code": "US-KS-019",
+    "state": "Kansas"
+  },
+  {
+    "name": "Manhattan",
+    "code": "US-KS-020",
+    "state": "Kansas"
+  },
+  {
+    "name": "McPherson",
+    "code": "US-KS-021",
+    "state": "Kansas"
+  },
+  {
+    "name": "Medicine Lodge",
+    "code": "US-KS-022",
+    "state": "Kansas"
+  },
+  {
+    "name": "Newton",
+    "code": "US-KS-023",
+    "state": "Kansas"
+  },
+  {
+    "name": "Olathe",
+    "code": "US-KS-024",
+    "state": "Kansas"
+  },
+  {
+    "name": "Osawatomie",
+    "code": "US-KS-025",
+    "state": "Kansas"
+  },
+  {
+    "name": "Ottawa",
+    "code": "US-KS-026",
+    "state": "Kansas"
+  },
+  {
+    "name": "Overland Park",
+    "code": "US-KS-027",
+    "state": "Kansas"
+  },
+  {
+    "name": "Pittsburg",
+    "code": "US-KS-028",
+    "state": "Kansas"
+  },
+  {
+    "name": "Salina",
+    "code": "US-KS-029",
+    "state": "Kansas"
+  },
+  {
+    "name": "Shawnee",
+    "code": "US-KS-030",
+    "state": "Kansas"
+  },
+  {
+    "name": "Smith Center",
+    "code": "US-KS-031",
+    "state": "Kansas"
+  },
+  {
+    "name": "Topeka",
+    "code": "US-KS-032",
+    "state": "Kansas"
+  },
+  {
+    "name": "Wichita",
+    "code": "US-KS-033",
+    "state": "Kansas"
+  },
+  {
+    "name": "Ashland",
+    "code": "US-KY-001",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Barbourville",
+    "code": "US-KY-002",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Bardstown",
+    "code": "US-KY-003",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Berea",
+    "code": "US-KY-004",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Boonesborough",
+    "code": "US-KY-005",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Bowling Green",
+    "code": "US-KY-006",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Campbellsville",
+    "code": "US-KY-007",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Covington",
+    "code": "US-KY-008",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Danville",
+    "code": "US-KY-009",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Elizabethtown",
+    "code": "US-KY-010",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Frankfort",
+    "code": "US-KY-011",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Harlan",
+    "code": "US-KY-012",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Harrodsburg",
+    "code": "US-KY-013",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Hazard",
+    "code": "US-KY-014",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Henderson",
+    "code": "US-KY-015",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Hodgenville",
+    "code": "US-KY-016",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Hopkinsville",
+    "code": "US-KY-017",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Lexington",
+    "code": "US-KY-018",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Louisville",
+    "code": "US-KY-019",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Mayfield",
+    "code": "US-KY-020",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Maysville",
+    "code": "US-KY-021",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Middlesboro",
+    "code": "US-KY-022",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Newport",
+    "code": "US-KY-023",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Owensboro",
+    "code": "US-KY-024",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Paducah",
+    "code": "US-KY-025",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Paris",
+    "code": "US-KY-026",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Richmond",
+    "code": "US-KY-027",
+    "state": "Kentucky"
+  },
+  {
+    "name": "Abbeville",
+    "code": "US-LA-001",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Alexandria",
+    "code": "US-LA-002",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Bastrop",
+    "code": "US-LA-003",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Baton Rouge",
+    "code": "US-LA-004",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Bogalusa",
+    "code": "US-LA-005",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Bossier City",
+    "code": "US-LA-006",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Gretna",
+    "code": "US-LA-007",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Houma",
+    "code": "US-LA-008",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Lafayette",
+    "code": "US-LA-009",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Lake Charles",
+    "code": "US-LA-010",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Monroe",
+    "code": "US-LA-011",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Morgan City",
+    "code": "US-LA-012",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Natchitoches",
+    "code": "US-LA-013",
+    "state": "Louisiana"
+  },
+  {
+    "name": "New Iberia",
+    "code": "US-LA-014",
+    "state": "Louisiana"
+  },
+  {
+    "name": "New Orleans",
+    "code": "US-LA-015",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Opelousas",
+    "code": "US-LA-016",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Ruston",
+    "code": "US-LA-017",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Saint Martinville",
+    "code": "US-LA-018",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Shreveport",
+    "code": "US-LA-019",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Thibodaux",
+    "code": "US-LA-020",
+    "state": "Louisiana"
+  },
+  {
+    "name": "Auburn",
+    "code": "US-ME-001",
+    "state": "Maine"
+  },
+  {
+    "name": "Augusta",
+    "code": "US-ME-002",
+    "state": "Maine"
+  },
+  {
+    "name": "Bangor",
+    "code": "US-ME-003",
+    "state": "Maine"
+  },
+  {
+    "name": "Bar Harbor",
+    "code": "US-ME-004",
+    "state": "Maine"
+  },
+  {
+    "name": "Bath",
+    "code": "US-ME-005",
+    "state": "Maine"
+  },
+  {
+    "name": "Belfast",
+    "code": "US-ME-006",
+    "state": "Maine"
+  },
+  {
+    "name": "Biddeford",
+    "code": "US-ME-007",
+    "state": "Maine"
+  },
+  {
+    "name": "Boothbay Harbor",
+    "code": "US-ME-008",
+    "state": "Maine"
+  },
+  {
+    "name": "Brunswick",
+    "code": "US-ME-009",
+    "state": "Maine"
+  },
+  {
+    "name": "Calais",
+    "code": "US-ME-010",
+    "state": "Maine"
+  },
+  {
+    "name": "Caribou",
+    "code": "US-ME-011",
+    "state": "Maine"
+  },
+  {
+    "name": "Castine",
+    "code": "US-ME-012",
+    "state": "Maine"
+  },
+  {
+    "name": "Eastport",
+    "code": "US-ME-013",
+    "state": "Maine"
+  },
+  {
+    "name": "Ellsworth",
+    "code": "US-ME-014",
+    "state": "Maine"
+  },
+  {
+    "name": "Farmington",
+    "code": "US-ME-015",
+    "state": "Maine"
+  },
+  {
+    "name": "Fort Kent",
+    "code": "US-ME-016",
+    "state": "Maine"
+  },
+  {
+    "name": "Gardiner",
+    "code": "US-ME-017",
+    "state": "Maine"
+  },
+  {
+    "name": "Houlton",
+    "code": "US-ME-018",
+    "state": "Maine"
+  },
+  {
+    "name": "Kennebunkport",
+    "code": "US-ME-019",
+    "state": "Maine"
+  },
+  {
+    "name": "Kittery",
+    "code": "US-ME-020",
+    "state": "Maine"
+  },
+  {
+    "name": "Lewiston",
+    "code": "US-ME-021",
+    "state": "Maine"
+  },
+  {
+    "name": "Lubec",
+    "code": "US-ME-022",
+    "state": "Maine"
+  },
+  {
+    "name": "Machias",
+    "code": "US-ME-023",
+    "state": "Maine"
+  },
+  {
+    "name": "Orono",
+    "code": "US-ME-024",
+    "state": "Maine"
+  },
+  {
+    "name": "Portland",
+    "code": "US-ME-025",
+    "state": "Maine"
+  },
+  {
+    "name": "Presque Isle",
+    "code": "US-ME-026",
+    "state": "Maine"
+  },
+  {
+    "name": "Rockland",
+    "code": "US-ME-027",
+    "state": "Maine"
+  },
+  {
+    "name": "Rumford",
+    "code": "US-ME-028",
+    "state": "Maine"
+  },
+  {
+    "name": "Saco",
+    "code": "US-ME-029",
+    "state": "Maine"
+  },
+  {
+    "name": "Scarborough",
+    "code": "US-ME-030",
+    "state": "Maine"
+  },
+  {
+    "name": "Waterville",
+    "code": "US-ME-031",
+    "state": "Maine"
+  },
+  {
+    "name": "York",
+    "code": "US-ME-032",
+    "state": "Maine"
+  },
+  {
+    "name": "Aberdeen",
+    "code": "US-MD-001",
+    "state": "Maryland"
+  },
+  {
+    "name": "Annapolis",
+    "code": "US-MD-002",
+    "state": "Maryland"
+  },
+  {
+    "name": "Baltimore",
+    "code": "US-MD-003",
+    "state": "Maryland"
+  },
+  {
+    "name": "Bethesda-Chevy Chase",
+    "code": "US-MD-004",
+    "state": "Maryland"
+  },
+  {
+    "name": "Bowie",
+    "code": "US-MD-005",
+    "state": "Maryland"
+  },
+  {
+    "name": "Cambridge",
+    "code": "US-MD-006",
+    "state": "Maryland"
+  },
+  {
+    "name": "Catonsville",
+    "code": "US-MD-007",
+    "state": "Maryland"
+  },
+  {
+    "name": "College Park",
+    "code": "US-MD-008",
+    "state": "Maryland"
+  },
+  {
+    "name": "Columbia",
+    "code": "US-MD-009",
+    "state": "Maryland"
+  },
+  {
+    "name": "Cumberland",
+    "code": "US-MD-010",
+    "state": "Maryland"
+  },
+  {
+    "name": "Easton",
+    "code": "US-MD-011",
+    "state": "Maryland"
+  },
+  {
+    "name": "Elkton",
+    "code": "US-MD-012",
+    "state": "Maryland"
+  },
+  {
+    "name": "Emmitsburg",
+    "code": "US-MD-013",
+    "state": "Maryland"
+  },
+  {
+    "name": "Frederick",
+    "code": "US-MD-014",
+    "state": "Maryland"
+  },
+  {
+    "name": "Greenbelt",
+    "code": "US-MD-015",
+    "state": "Maryland"
+  },
+  {
+    "name": "Hagerstown",
+    "code": "US-MD-016",
+    "state": "Maryland"
+  },
+  {
+    "name": "Hyattsville",
+    "code": "US-MD-017",
+    "state": "Maryland"
+  },
+  {
+    "name": "Laurel",
+    "code": "US-MD-018",
+    "state": "Maryland"
+  },
+  {
+    "name": "Oakland",
+    "code": "US-MD-019",
+    "state": "Maryland"
+  },
+  {
+    "name": "Ocean City",
+    "code": "US-MD-020",
+    "state": "Maryland"
+  },
+  {
+    "name": "Rockville",
+    "code": "US-MD-021",
+    "state": "Maryland"
+  },
+  {
+    "name": "Saint Marys City",
+    "code": "US-MD-022",
+    "state": "Maryland"
+  },
+  {
+    "name": "Salisbury",
+    "code": "US-MD-023",
+    "state": "Maryland"
+  },
+  {
+    "name": "Silver Spring",
+    "code": "US-MD-024",
+    "state": "Maryland"
+  },
+  {
+    "name": "Takoma Park",
+    "code": "US-MD-025",
+    "state": "Maryland"
+  },
+  {
+    "name": "Towson",
+    "code": "US-MD-026",
+    "state": "Maryland"
+  },
+  {
+    "name": "Westminster",
+    "code": "US-MD-027",
+    "state": "Maryland"
+  },
+  {
+    "name": "Abington",
+    "code": "US-MA-001",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Adams",
+    "code": "US-MA-002",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Amesbury",
+    "code": "US-MA-003",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Amherst",
+    "code": "US-MA-004",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Andover",
+    "code": "US-MA-005",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Arlington",
+    "code": "US-MA-006",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Athol",
+    "code": "US-MA-007",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Attleboro",
+    "code": "US-MA-008",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Barnstable",
+    "code": "US-MA-009",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Bedford",
+    "code": "US-MA-010",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Beverly",
+    "code": "US-MA-011",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Boston",
+    "code": "US-MA-012",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Bourne",
+    "code": "US-MA-013",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Braintree",
+    "code": "US-MA-014",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Brockton",
+    "code": "US-MA-015",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Brookline",
+    "code": "US-MA-016",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Cambridge",
+    "code": "US-MA-017",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Canton",
+    "code": "US-MA-018",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Charlestown",
+    "code": "US-MA-019",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Chelmsford",
+    "code": "US-MA-020",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Chelsea",
+    "code": "US-MA-021",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Chicopee",
+    "code": "US-MA-022",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Clinton",
+    "code": "US-MA-023",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Cohasset",
+    "code": "US-MA-024",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Concord",
+    "code": "US-MA-025",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Danvers",
+    "code": "US-MA-026",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Dartmouth",
+    "code": "US-MA-027",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Dedham",
+    "code": "US-MA-028",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Dennis",
+    "code": "US-MA-029",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Duxbury",
+    "code": "US-MA-030",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Eastham",
+    "code": "US-MA-031",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Edgartown",
+    "code": "US-MA-032",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Everett",
+    "code": "US-MA-033",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Fairhaven",
+    "code": "US-MA-034",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Fall River",
+    "code": "US-MA-035",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Falmouth",
+    "code": "US-MA-036",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Fitchburg",
+    "code": "US-MA-037",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Framingham",
+    "code": "US-MA-038",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Gloucester",
+    "code": "US-MA-039",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Great Barrington",
+    "code": "US-MA-040",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Greenfield",
+    "code": "US-MA-041",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Groton",
+    "code": "US-MA-042",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Harwich",
+    "code": "US-MA-043",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Haverhill",
+    "code": "US-MA-044",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Hingham",
+    "code": "US-MA-045",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Holyoke",
+    "code": "US-MA-046",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Hyannis",
+    "code": "US-MA-047",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Ipswich",
+    "code": "US-MA-048",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Lawrence",
+    "code": "US-MA-049",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Lenox",
+    "code": "US-MA-050",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Leominster",
+    "code": "US-MA-051",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Lexington",
+    "code": "US-MA-052",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Lowell",
+    "code": "US-MA-053",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Ludlow",
+    "code": "US-MA-054",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Lynn",
+    "code": "US-MA-055",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Malden",
+    "code": "US-MA-056",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Marblehead",
+    "code": "US-MA-057",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Marlborough",
+    "code": "US-MA-058",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Medford",
+    "code": "US-MA-059",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Milton",
+    "code": "US-MA-060",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Nahant",
+    "code": "US-MA-061",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Natick",
+    "code": "US-MA-062",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "New Bedford",
+    "code": "US-MA-063",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Newburyport",
+    "code": "US-MA-064",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Newton",
+    "code": "US-MA-065",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "North Adams",
+    "code": "US-MA-066",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Northampton",
+    "code": "US-MA-067",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Norton",
+    "code": "US-MA-068",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Norwood",
+    "code": "US-MA-069",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Peabody",
+    "code": "US-MA-070",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Pittsfield",
+    "code": "US-MA-071",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Plymouth",
+    "code": "US-MA-072",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Provincetown",
+    "code": "US-MA-073",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Quincy",
+    "code": "US-MA-074",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Randolph",
+    "code": "US-MA-075",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Revere",
+    "code": "US-MA-076",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Salem",
+    "code": "US-MA-077",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Sandwich",
+    "code": "US-MA-078",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Saugus",
+    "code": "US-MA-079",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Somerville",
+    "code": "US-MA-080",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "South Hadley",
+    "code": "US-MA-081",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Springfield",
+    "code": "US-MA-082",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Stockbridge",
+    "code": "US-MA-083",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Stoughton",
+    "code": "US-MA-084",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Sturbridge",
+    "code": "US-MA-085",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Sudbury",
+    "code": "US-MA-086",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Taunton",
+    "code": "US-MA-087",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Tewksbury",
+    "code": "US-MA-088",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Truro",
+    "code": "US-MA-089",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Watertown",
+    "code": "US-MA-090",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Webster",
+    "code": "US-MA-091",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Wellesley",
+    "code": "US-MA-092",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Wellfleet",
+    "code": "US-MA-093",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "West Bridgewater",
+    "code": "US-MA-094",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "West Springfield",
+    "code": "US-MA-095",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Westfield",
+    "code": "US-MA-096",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Weymouth",
+    "code": "US-MA-097",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Whitman",
+    "code": "US-MA-098",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Williamstown",
+    "code": "US-MA-099",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Woburn",
+    "code": "US-MA-100",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Woods Hole",
+    "code": "US-MA-101",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Worcester",
+    "code": "US-MA-102",
+    "state": "Massachusetts"
+  },
+  {
+    "name": "Adrian",
+    "code": "US-MI-001",
+    "state": "Michigan"
+  },
+  {
+    "name": "Alma",
+    "code": "US-MI-002",
+    "state": "Michigan"
+  },
+  {
+    "name": "Ann Arbor",
+    "code": "US-MI-003",
+    "state": "Michigan"
+  },
+  {
+    "name": "Battle Creek",
+    "code": "US-MI-004",
+    "state": "Michigan"
+  },
+  {
+    "name": "Bay City",
+    "code": "US-MI-005",
+    "state": "Michigan"
+  },
+  {
+    "name": "Benton Harbor",
+    "code": "US-MI-006",
+    "state": "Michigan"
+  },
+  {
+    "name": "Bloomfield Hills",
+    "code": "US-MI-007",
+    "state": "Michigan"
+  },
+  {
+    "name": "Cadillac",
+    "code": "US-MI-008",
+    "state": "Michigan"
+  },
+  {
+    "name": "Charlevoix",
+    "code": "US-MI-009",
+    "state": "Michigan"
+  },
+  {
+    "name": "Cheboygan",
+    "code": "US-MI-010",
+    "state": "Michigan"
+  },
+  {
+    "name": "Dearborn",
+    "code": "US-MI-011",
+    "state": "Michigan"
+  },
+  {
+    "name": "Detroit",
+    "code": "US-MI-012",
+    "state": "Michigan"
+  },
+  {
+    "name": "East Lansing",
+    "code": "US-MI-013",
+    "state": "Michigan"
+  },
+  {
+    "name": "Eastpointe",
+    "code": "US-MI-014",
+    "state": "Michigan"
+  },
+  {
+    "name": "Ecorse",
+    "code": "US-MI-015",
+    "state": "Michigan"
+  },
+  {
+    "name": "Escanaba",
+    "code": "US-MI-016",
+    "state": "Michigan"
+  },
+  {
+    "name": "Flint",
+    "code": "US-MI-017",
+    "state": "Michigan"
+  },
+  {
+    "name": "Grand Haven",
+    "code": "US-MI-018",
+    "state": "Michigan"
+  },
+  {
+    "name": "Grand Rapids",
+    "code": "US-MI-019",
+    "state": "Michigan"
+  },
+  {
+    "name": "Grayling",
+    "code": "US-MI-020",
+    "state": "Michigan"
+  },
+  {
+    "name": "Grosse Pointe",
+    "code": "US-MI-021",
+    "state": "Michigan"
+  },
+  {
+    "name": "Hancock",
+    "code": "US-MI-022",
+    "state": "Michigan"
+  },
+  {
+    "name": "Highland Park",
+    "code": "US-MI-023",
+    "state": "Michigan"
+  },
+  {
+    "name": "Holland",
+    "code": "US-MI-024",
+    "state": "Michigan"
+  },
+  {
+    "name": "Houghton",
+    "code": "US-MI-025",
+    "state": "Michigan"
+  },
+  {
+    "name": "Interlochen",
+    "code": "US-MI-026",
+    "state": "Michigan"
+  },
+  {
+    "name": "Iron Mountain",
+    "code": "US-MI-027",
+    "state": "Michigan"
+  },
+  {
+    "name": "Ironwood",
+    "code": "US-MI-028",
+    "state": "Michigan"
+  },
+  {
+    "name": "Ishpeming",
+    "code": "US-MI-029",
+    "state": "Michigan"
+  },
+  {
+    "name": "Jackson",
+    "code": "US-MI-030",
+    "state": "Michigan"
+  },
+  {
+    "name": "Kalamazoo",
+    "code": "US-MI-031",
+    "state": "Michigan"
+  },
+  {
+    "name": "Lansing",
+    "code": "US-MI-032",
+    "state": "Michigan"
+  },
+  {
+    "name": "Livonia",
+    "code": "US-MI-033",
+    "state": "Michigan"
+  },
+  {
+    "name": "Ludington",
+    "code": "US-MI-034",
+    "state": "Michigan"
+  },
+  {
+    "name": "Mackinaw City",
+    "code": "US-MI-035",
+    "state": "Michigan"
+  },
+  {
+    "name": "Manistee",
+    "code": "US-MI-036",
+    "state": "Michigan"
+  },
+  {
+    "name": "Marquette",
+    "code": "US-MI-037",
+    "state": "Michigan"
+  },
+  {
+    "name": "Menominee",
+    "code": "US-MI-038",
+    "state": "Michigan"
+  },
+  {
+    "name": "Midland",
+    "code": "US-MI-039",
+    "state": "Michigan"
+  },
+  {
+    "name": "Monroe",
+    "code": "US-MI-040",
+    "state": "Michigan"
+  },
+  {
+    "name": "Mount Clemens",
+    "code": "US-MI-041",
+    "state": "Michigan"
+  },
+  {
+    "name": "Mount Pleasant",
+    "code": "US-MI-042",
+    "state": "Michigan"
+  },
+  {
+    "name": "Muskegon",
+    "code": "US-MI-043",
+    "state": "Michigan"
+  },
+  {
+    "name": "Niles",
+    "code": "US-MI-044",
+    "state": "Michigan"
+  },
+  {
+    "name": "Petoskey",
+    "code": "US-MI-045",
+    "state": "Michigan"
+  },
+  {
+    "name": "Pontiac",
+    "code": "US-MI-046",
+    "state": "Michigan"
+  },
+  {
+    "name": "Port Huron",
+    "code": "US-MI-047",
+    "state": "Michigan"
+  },
+  {
+    "name": "Royal Oak",
+    "code": "US-MI-048",
+    "state": "Michigan"
+  },
+  {
+    "name": "Saginaw",
+    "code": "US-MI-049",
+    "state": "Michigan"
+  },
+  {
+    "name": "Saint Ignace",
+    "code": "US-MI-050",
+    "state": "Michigan"
+  },
+  {
+    "name": "Saint Joseph",
+    "code": "US-MI-051",
+    "state": "Michigan"
+  },
+  {
+    "name": "Sault Sainte Marie",
+    "code": "US-MI-052",
+    "state": "Michigan"
+  },
+  {
+    "name": "Traverse City",
+    "code": "US-MI-053",
+    "state": "Michigan"
+  },
+  {
+    "name": "Trenton",
+    "code": "US-MI-054",
+    "state": "Michigan"
+  },
+  {
+    "name": "Warren",
+    "code": "US-MI-055",
+    "state": "Michigan"
+  },
+  {
+    "name": "Wyandotte",
+    "code": "US-MI-056",
+    "state": "Michigan"
+  },
+  {
+    "name": "Ypsilanti",
+    "code": "US-MI-057",
+    "state": "Michigan"
+  },
+  {
+    "name": "Albert Lea",
+    "code": "US-MN-001",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Alexandria",
+    "code": "US-MN-002",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Austin",
+    "code": "US-MN-003",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Bemidji",
+    "code": "US-MN-004",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Bloomington",
+    "code": "US-MN-005",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Brainerd",
+    "code": "US-MN-006",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Crookston",
+    "code": "US-MN-007",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Duluth",
+    "code": "US-MN-008",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Ely",
+    "code": "US-MN-009",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Eveleth",
+    "code": "US-MN-010",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Faribault",
+    "code": "US-MN-011",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Fergus Falls",
+    "code": "US-MN-012",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Hastings",
+    "code": "US-MN-013",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Hibbing",
+    "code": "US-MN-014",
+    "state": "Minnesota"
+  },
+  {
+    "name": "International Falls",
+    "code": "US-MN-015",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Little Falls",
+    "code": "US-MN-016",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Mankato",
+    "code": "US-MN-017",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Minneapolis",
+    "code": "US-MN-018",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Moorhead",
+    "code": "US-MN-019",
+    "state": "Minnesota"
+  },
+  {
+    "name": "New Ulm",
+    "code": "US-MN-020",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Northfield",
+    "code": "US-MN-021",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Owatonna",
+    "code": "US-MN-022",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Pipestone",
+    "code": "US-MN-023",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Red Wing",
+    "code": "US-MN-024",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Rochester",
+    "code": "US-MN-025",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Saint Cloud",
+    "code": "US-MN-026",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Saint Paul",
+    "code": "US-MN-027",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Sauk Centre",
+    "code": "US-MN-028",
+    "state": "Minnesota"
+  },
+  {
+    "name": "South Saint Paul",
+    "code": "US-MN-029",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Stillwater",
+    "code": "US-MN-030",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Virginia",
+    "code": "US-MN-031",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Willmar",
+    "code": "US-MN-032",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Winona",
+    "code": "US-MN-033",
+    "state": "Minnesota"
+  },
+  {
+    "name": "Bay Saint Louis",
+    "code": "US-MS-001",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Biloxi",
+    "code": "US-MS-002",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Canton",
+    "code": "US-MS-003",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Clarksdale",
+    "code": "US-MS-004",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Columbia",
+    "code": "US-MS-005",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Columbus",
+    "code": "US-MS-006",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Corinth",
+    "code": "US-MS-007",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Greenville",
+    "code": "US-MS-008",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Greenwood",
+    "code": "US-MS-009",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Grenada",
+    "code": "US-MS-010",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Gulfport",
+    "code": "US-MS-011",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Hattiesburg",
+    "code": "US-MS-012",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Holly Springs",
+    "code": "US-MS-013",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Jackson",
+    "code": "US-MS-014",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Laurel",
+    "code": "US-MS-015",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Meridian",
+    "code": "US-MS-016",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Natchez",
+    "code": "US-MS-017",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Ocean Springs",
+    "code": "US-MS-018",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Oxford",
+    "code": "US-MS-019",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Pascagoula",
+    "code": "US-MS-020",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Pass Christian",
+    "code": "US-MS-021",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Philadelphia",
+    "code": "US-MS-022",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Port Gibson",
+    "code": "US-MS-023",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Starkville",
+    "code": "US-MS-024",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Tupelo",
+    "code": "US-MS-025",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Vicksburg",
+    "code": "US-MS-026",
+    "state": "Mississippi"
+  },
+  {
+    "name": "West Point",
+    "code": "US-MS-027",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Yazoo City",
+    "code": "US-MS-028",
+    "state": "Mississippi"
+  },
+  {
+    "name": "Boonville",
+    "code": "US-MO-001",
+    "state": "Missouri"
+  },
+  {
+    "name": "Branson",
+    "code": "US-MO-002",
+    "state": "Missouri"
+  },
+  {
+    "name": "Cape Girardeau",
+    "code": "US-MO-003",
+    "state": "Missouri"
+  },
+  {
+    "name": "Carthage",
+    "code": "US-MO-004",
+    "state": "Missouri"
+  },
+  {
+    "name": "Chillicothe",
+    "code": "US-MO-005",
+    "state": "Missouri"
+  },
+  {
+    "name": "Clayton",
+    "code": "US-MO-006",
+    "state": "Missouri"
+  },
+  {
+    "name": "Columbia",
+    "code": "US-MO-007",
+    "state": "Missouri"
+  },
+  {
+    "name": "Excelsior Springs",
+    "code": "US-MO-008",
+    "state": "Missouri"
+  },
+  {
+    "name": "Ferguson",
+    "code": "US-MO-009",
+    "state": "Missouri"
+  },
+  {
+    "name": "Florissant",
+    "code": "US-MO-010",
+    "state": "Missouri"
+  },
+  {
+    "name": "Fulton",
+    "code": "US-MO-011",
+    "state": "Missouri"
+  },
+  {
+    "name": "Hannibal",
+    "code": "US-MO-012",
+    "state": "Missouri"
+  },
+  {
+    "name": "Independence",
+    "code": "US-MO-013",
+    "state": "Missouri"
+  },
+  {
+    "name": "Jefferson City",
+    "code": "US-MO-014",
+    "state": "Missouri"
+  },
+  {
+    "name": "Joplin",
+    "code": "US-MO-015",
+    "state": "Missouri"
+  },
+  {
+    "name": "Kansas City",
+    "code": "US-MO-016",
+    "state": "Missouri"
+  },
+  {
+    "name": "Kirksville",
+    "code": "US-MO-017",
+    "state": "Missouri"
+  },
+  {
+    "name": "Lamar",
+    "code": "US-MO-018",
+    "state": "Missouri"
+  },
+  {
+    "name": "Lebanon",
+    "code": "US-MO-019",
+    "state": "Missouri"
+  },
+  {
+    "name": "Lexington",
+    "code": "US-MO-020",
+    "state": "Missouri"
+  },
+  {
+    "name": "Maryville",
+    "code": "US-MO-021",
+    "state": "Missouri"
+  },
+  {
+    "name": "Mexico",
+    "code": "US-MO-022",
+    "state": "Missouri"
+  },
+  {
+    "name": "Monett",
+    "code": "US-MO-023",
+    "state": "Missouri"
+  },
+  {
+    "name": "Neosho",
+    "code": "US-MO-024",
+    "state": "Missouri"
+  },
+  {
+    "name": "New Madrid",
+    "code": "US-MO-025",
+    "state": "Missouri"
+  },
+  {
+    "name": "Rolla",
+    "code": "US-MO-026",
+    "state": "Missouri"
+  },
+  {
+    "name": "Saint Charles",
+    "code": "US-MO-027",
+    "state": "Missouri"
+  },
+  {
+    "name": "Saint Joseph",
+    "code": "US-MO-028",
+    "state": "Missouri"
+  },
+  {
+    "name": "Saint Louis",
+    "code": "US-MO-029",
+    "state": "Missouri"
+  },
+  {
+    "name": "Sainte Genevieve",
+    "code": "US-MO-030",
+    "state": "Missouri"
+  },
+  {
+    "name": "Salem",
+    "code": "US-MO-031",
+    "state": "Missouri"
+  },
+  {
+    "name": "Sedalia",
+    "code": "US-MO-032",
+    "state": "Missouri"
+  },
+  {
+    "name": "Springfield",
+    "code": "US-MO-033",
+    "state": "Missouri"
+  },
+  {
+    "name": "Warrensburg",
+    "code": "US-MO-034",
+    "state": "Missouri"
+  },
+  {
+    "name": "West Plains",
+    "code": "US-MO-035",
+    "state": "Missouri"
+  },
+  {
+    "name": "Anaconda",
+    "code": "US-MT-001",
+    "state": "Montana"
+  },
+  {
+    "name": "Billings",
+    "code": "US-MT-002",
+    "state": "Montana"
+  },
+  {
+    "name": "Bozeman",
+    "code": "US-MT-003",
+    "state": "Montana"
+  },
+  {
+    "name": "Butte",
+    "code": "US-MT-004",
+    "state": "Montana"
+  },
+  {
+    "name": "Dillon",
+    "code": "US-MT-005",
+    "state": "Montana"
+  },
+  {
+    "name": "Fort Benton",
+    "code": "US-MT-006",
+    "state": "Montana"
+  },
+  {
+    "name": "Glendive",
+    "code": "US-MT-007",
+    "state": "Montana"
+  },
+  {
+    "name": "Great Falls",
+    "code": "US-MT-008",
+    "state": "Montana"
+  },
+  {
+    "name": "Havre",
+    "code": "US-MT-009",
+    "state": "Montana"
+  },
+  {
+    "name": "Helena",
+    "code": "US-MT-010",
+    "state": "Montana"
+  },
+  {
+    "name": "Kalispell",
+    "code": "US-MT-011",
+    "state": "Montana"
+  },
+  {
+    "name": "Lewistown",
+    "code": "US-MT-012",
+    "state": "Montana"
+  },
+  {
+    "name": "Livingston",
+    "code": "US-MT-013",
+    "state": "Montana"
+  },
+  {
+    "name": "Miles City",
+    "code": "US-MT-014",
+    "state": "Montana"
+  },
+  {
+    "name": "Missoula",
+    "code": "US-MT-015",
+    "state": "Montana"
+  },
+  {
+    "name": "Virginia City",
+    "code": "US-MT-016",
+    "state": "Montana"
+  },
+  {
+    "name": "Beatrice",
+    "code": "US-NE-001",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Bellevue",
+    "code": "US-NE-002",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Boys Town",
+    "code": "US-NE-003",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Chadron",
+    "code": "US-NE-004",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Columbus",
+    "code": "US-NE-005",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Fremont",
+    "code": "US-NE-006",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Grand Island",
+    "code": "US-NE-007",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Hastings",
+    "code": "US-NE-008",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Kearney",
+    "code": "US-NE-009",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Lincoln",
+    "code": "US-NE-010",
+    "state": "Nebraska"
+  },
+  {
+    "name": "McCook",
+    "code": "US-NE-011",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Minden",
+    "code": "US-NE-012",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Nebraska City",
+    "code": "US-NE-013",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Norfolk",
+    "code": "US-NE-014",
+    "state": "Nebraska"
+  },
+  {
+    "name": "North Platte",
+    "code": "US-NE-015",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Omaha",
+    "code": "US-NE-016",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Plattsmouth",
+    "code": "US-NE-017",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Red Cloud",
+    "code": "US-NE-018",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Sidney",
+    "code": "US-NE-019",
+    "state": "Nebraska"
+  },
+  {
+    "name": "Boulder City",
+    "code": "US-NV-001",
+    "state": "Nevada"
+  },
+  {
+    "name": "Carson City",
+    "code": "US-NV-002",
+    "state": "Nevada"
+  },
+  {
+    "name": "Elko",
+    "code": "US-NV-003",
+    "state": "Nevada"
+  },
+  {
+    "name": "Ely",
+    "code": "US-NV-004",
+    "state": "Nevada"
+  },
+  {
+    "name": "Fallon",
+    "code": "US-NV-005",
+    "state": "Nevada"
+  },
+  {
+    "name": "Genoa",
+    "code": "US-NV-006",
+    "state": "Nevada"
+  },
+  {
+    "name": "Goldfield",
+    "code": "US-NV-007",
+    "state": "Nevada"
+  },
+  {
+    "name": "Henderson",
+    "code": "US-NV-008",
+    "state": "Nevada"
+  },
+  {
+    "name": "Las Vegas",
+    "code": "US-NV-009",
+    "state": "Nevada"
+  },
+  {
+    "name": "North Las Vegas",
+    "code": "US-NV-010",
+    "state": "Nevada"
+  },
+  {
+    "name": "Reno",
+    "code": "US-NV-011",
+    "state": "Nevada"
+  },
+  {
+    "name": "Sparks",
+    "code": "US-NV-012",
+    "state": "Nevada"
+  },
+  {
+    "name": "Virginia City",
+    "code": "US-NV-013",
+    "state": "Nevada"
+  },
+  {
+    "name": "Winnemucca",
+    "code": "US-NV-014",
+    "state": "Nevada"
+  },
+  {
+    "name": "Berlin",
+    "code": "US-NH-001",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Claremont",
+    "code": "US-NH-002",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Concord",
+    "code": "US-NH-003",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Derry",
+    "code": "US-NH-004",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Dover",
+    "code": "US-NH-005",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Durham",
+    "code": "US-NH-006",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Exeter",
+    "code": "US-NH-007",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Franklin",
+    "code": "US-NH-008",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Hanover",
+    "code": "US-NH-009",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Hillsborough",
+    "code": "US-NH-010",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Keene",
+    "code": "US-NH-011",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Laconia",
+    "code": "US-NH-012",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Lebanon",
+    "code": "US-NH-013",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Manchester",
+    "code": "US-NH-014",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Nashua",
+    "code": "US-NH-015",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Peterborough",
+    "code": "US-NH-016",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Plymouth",
+    "code": "US-NH-017",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Portsmouth",
+    "code": "US-NH-018",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Rochester",
+    "code": "US-NH-019",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Salem",
+    "code": "US-NH-020",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Somersworth",
+    "code": "US-NH-021",
+    "state": "New Hampshire"
+  },
+  {
+    "name": "Asbury Park",
+    "code": "US-NJ-001",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Atlantic City",
+    "code": "US-NJ-002",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Bayonne",
+    "code": "US-NJ-003",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Bloomfield",
+    "code": "US-NJ-004",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Bordentown",
+    "code": "US-NJ-005",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Bound Brook",
+    "code": "US-NJ-006",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Bridgeton",
+    "code": "US-NJ-007",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Burlington",
+    "code": "US-NJ-008",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Caldwell",
+    "code": "US-NJ-009",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Camden",
+    "code": "US-NJ-010",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Cape May",
+    "code": "US-NJ-011",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Clifton",
+    "code": "US-NJ-012",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Cranford",
+    "code": "US-NJ-013",
+    "state": "New Jersey"
+  },
+  {
+    "name": "East Orange",
+    "code": "US-NJ-014",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Edison",
+    "code": "US-NJ-015",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Elizabeth",
+    "code": "US-NJ-016",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Englewood",
+    "code": "US-NJ-017",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Fort Lee",
+    "code": "US-NJ-018",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Glassboro",
+    "code": "US-NJ-019",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Hackensack",
+    "code": "US-NJ-020",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Haddonfield",
+    "code": "US-NJ-021",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Hoboken",
+    "code": "US-NJ-022",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Irvington",
+    "code": "US-NJ-023",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Jersey City",
+    "code": "US-NJ-024",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Lakehurst",
+    "code": "US-NJ-025",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Lakewood",
+    "code": "US-NJ-026",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Long Beach",
+    "code": "US-NJ-027",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Long Branch",
+    "code": "US-NJ-028",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Madison",
+    "code": "US-NJ-029",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Menlo Park",
+    "code": "US-NJ-030",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Millburn",
+    "code": "US-NJ-031",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Millville",
+    "code": "US-NJ-032",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Montclair",
+    "code": "US-NJ-033",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Morristown",
+    "code": "US-NJ-034",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Mount Holly",
+    "code": "US-NJ-035",
+    "state": "New Jersey"
+  },
+  {
+    "name": "New Brunswick",
+    "code": "US-NJ-036",
+    "state": "New Jersey"
+  },
+  {
+    "name": "New Milford",
+    "code": "US-NJ-037",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Newark",
+    "code": "US-NJ-038",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Ocean City",
+    "code": "US-NJ-039",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Orange",
+    "code": "US-NJ-040",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Parsippany–Troy Hills",
+    "code": "US-NJ-041",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Passaic",
+    "code": "US-NJ-042",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Paterson",
+    "code": "US-NJ-043",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Perth Amboy",
+    "code": "US-NJ-044",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Plainfield",
+    "code": "US-NJ-045",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Princeton",
+    "code": "US-NJ-046",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Ridgewood",
+    "code": "US-NJ-047",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Roselle",
+    "code": "US-NJ-048",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Rutherford",
+    "code": "US-NJ-049",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Salem",
+    "code": "US-NJ-050",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Somerville",
+    "code": "US-NJ-051",
+    "state": "New Jersey"
+  },
+  {
+    "name": "South Orange Village",
+    "code": "US-NJ-052",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Totowa",
+    "code": "US-NJ-053",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Trenton",
+    "code": "US-NJ-054",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Union",
+    "code": "US-NJ-055",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Union City",
+    "code": "US-NJ-056",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Vineland",
+    "code": "US-NJ-057",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Wayne",
+    "code": "US-NJ-058",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Weehawken",
+    "code": "US-NJ-059",
+    "state": "New Jersey"
+  },
+  {
+    "name": "West New York",
+    "code": "US-NJ-060",
+    "state": "New Jersey"
+  },
+  {
+    "name": "West Orange",
+    "code": "US-NJ-061",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Willingboro",
+    "code": "US-NJ-062",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Woodbridge",
+    "code": "US-NJ-063",
+    "state": "New Jersey"
+  },
+  {
+    "name": "Acoma",
+    "code": "US-NM-001",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Alamogordo",
+    "code": "US-NM-002",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Albuquerque",
+    "code": "US-NM-003",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Artesia",
+    "code": "US-NM-004",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Belen",
+    "code": "US-NM-005",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Carlsbad",
+    "code": "US-NM-006",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Clovis",
+    "code": "US-NM-007",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Deming",
+    "code": "US-NM-008",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Farmington",
+    "code": "US-NM-009",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Gallup",
+    "code": "US-NM-010",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Grants",
+    "code": "US-NM-011",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Hobbs",
+    "code": "US-NM-012",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Las Cruces",
+    "code": "US-NM-013",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Las Vegas",
+    "code": "US-NM-014",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Los Alamos",
+    "code": "US-NM-015",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Lovington",
+    "code": "US-NM-016",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Portales",
+    "code": "US-NM-017",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Raton",
+    "code": "US-NM-018",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Roswell",
+    "code": "US-NM-019",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Santa Fe",
+    "code": "US-NM-020",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Shiprock",
+    "code": "US-NM-021",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Silver City",
+    "code": "US-NM-022",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Socorro",
+    "code": "US-NM-023",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Taos",
+    "code": "US-NM-024",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Truth or Consequences",
+    "code": "US-NM-025",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Tucumcari",
+    "code": "US-NM-026",
+    "state": "New Mexico"
+  },
+  {
+    "name": "Albany",
+    "code": "US-NY-001",
+    "state": "New York"
+  },
+  {
+    "name": "Amsterdam",
+    "code": "US-NY-002",
+    "state": "New York"
+  },
+  {
+    "name": "Auburn",
+    "code": "US-NY-003",
+    "state": "New York"
+  },
+  {
+    "name": "Babylon",
+    "code": "US-NY-004",
+    "state": "New York"
+  },
+  {
+    "name": "Batavia",
+    "code": "US-NY-005",
+    "state": "New York"
+  },
+  {
+    "name": "Beacon",
+    "code": "US-NY-006",
+    "state": "New York"
+  },
+  {
+    "name": "Bedford",
+    "code": "US-NY-007",
+    "state": "New York"
+  },
+  {
+    "name": "Binghamton",
+    "code": "US-NY-008",
+    "state": "New York"
+  },
+  {
+    "name": "Bronx",
+    "code": "US-NY-009",
+    "state": "New York"
+  },
+  {
+    "name": "Brooklyn",
+    "code": "US-NY-010",
+    "state": "New York"
+  },
+  {
+    "name": "Buffalo",
+    "code": "US-NY-011",
+    "state": "New York"
+  },
+  {
+    "name": "Chautauqua",
+    "code": "US-NY-012",
+    "state": "New York"
+  },
+  {
+    "name": "Cheektowaga",
+    "code": "US-NY-013",
+    "state": "New York"
+  },
+  {
+    "name": "Clinton",
+    "code": "US-NY-014",
+    "state": "New York"
+  },
+  {
+    "name": "Cohoes",
+    "code": "US-NY-015",
+    "state": "New York"
+  },
+  {
+    "name": "Coney Island",
+    "code": "US-NY-016",
+    "state": "New York"
+  },
+  {
+    "name": "Cooperstown",
+    "code": "US-NY-017",
+    "state": "New York"
+  },
+  {
+    "name": "Corning",
+    "code": "US-NY-018",
+    "state": "New York"
+  },
+  {
+    "name": "Cortland",
+    "code": "US-NY-019",
+    "state": "New York"
+  },
+  {
+    "name": "Crown Point",
+    "code": "US-NY-020",
+    "state": "New York"
+  },
+  {
+    "name": "Dunkirk",
+    "code": "US-NY-021",
+    "state": "New York"
+  },
+  {
+    "name": "East Aurora",
+    "code": "US-NY-022",
+    "state": "New York"
+  },
+  {
+    "name": "East Hampton",
+    "code": "US-NY-023",
+    "state": "New York"
+  },
+  {
+    "name": "Eastchester",
+    "code": "US-NY-024",
+    "state": "New York"
+  },
+  {
+    "name": "Elmira",
+    "code": "US-NY-025",
+    "state": "New York"
+  },
+  {
+    "name": "Flushing",
+    "code": "US-NY-026",
+    "state": "New York"
+  },
+  {
+    "name": "Forest Hills",
+    "code": "US-NY-027",
+    "state": "New York"
+  },
+  {
+    "name": "Fredonia",
+    "code": "US-NY-028",
+    "state": "New York"
+  },
+  {
+    "name": "Garden City",
+    "code": "US-NY-029",
+    "state": "New York"
+  },
+  {
+    "name": "Geneva",
+    "code": "US-NY-030",
+    "state": "New York"
+  },
+  {
+    "name": "Glens Falls",
+    "code": "US-NY-031",
+    "state": "New York"
+  },
+  {
+    "name": "Gloversville",
+    "code": "US-NY-032",
+    "state": "New York"
+  },
+  {
+    "name": "Great Neck",
+    "code": "US-NY-033",
+    "state": "New York"
+  },
+  {
+    "name": "Hammondsport",
+    "code": "US-NY-034",
+    "state": "New York"
+  },
+  {
+    "name": "Harlem",
+    "code": "US-NY-035",
+    "state": "New York"
+  },
+  {
+    "name": "Hempstead",
+    "code": "US-NY-036",
+    "state": "New York"
+  },
+  {
+    "name": "Herkimer",
+    "code": "US-NY-037",
+    "state": "New York"
+  },
+  {
+    "name": "Hudson",
+    "code": "US-NY-038",
+    "state": "New York"
+  },
+  {
+    "name": "Huntington",
+    "code": "US-NY-039",
+    "state": "New York"
+  },
+  {
+    "name": "Hyde Park",
+    "code": "US-NY-040",
+    "state": "New York"
+  },
+  {
+    "name": "Ilion",
+    "code": "US-NY-041",
+    "state": "New York"
+  },
+  {
+    "name": "Ithaca",
+    "code": "US-NY-042",
+    "state": "New York"
+  },
+  {
+    "name": "Jamestown",
+    "code": "US-NY-043",
+    "state": "New York"
+  },
+  {
+    "name": "Johnstown",
+    "code": "US-NY-044",
+    "state": "New York"
+  },
+  {
+    "name": "Kingston",
+    "code": "US-NY-045",
+    "state": "New York"
+  },
+  {
+    "name": "Lackawanna",
+    "code": "US-NY-046",
+    "state": "New York"
+  },
+  {
+    "name": "Lake Placid",
+    "code": "US-NY-047",
+    "state": "New York"
+  },
+  {
+    "name": "Levittown",
+    "code": "US-NY-048",
+    "state": "New York"
+  },
+  {
+    "name": "Lockport",
+    "code": "US-NY-049",
+    "state": "New York"
+  },
+  {
+    "name": "Mamaroneck",
+    "code": "US-NY-050",
+    "state": "New York"
+  },
+  {
+    "name": "Manhattan",
+    "code": "US-NY-051",
+    "state": "New York"
+  },
+  {
+    "name": "Massena",
+    "code": "US-NY-052",
+    "state": "New York"
+  },
+  {
+    "name": "Middletown",
+    "code": "US-NY-053",
+    "state": "New York"
+  },
+  {
+    "name": "Mineola",
+    "code": "US-NY-054",
+    "state": "New York"
+  },
+  {
+    "name": "Mount Vernon",
+    "code": "US-NY-055",
+    "state": "New York"
+  },
+  {
+    "name": "New Paltz",
+    "code": "US-NY-056",
+    "state": "New York"
+  },
+  {
+    "name": "New Rochelle",
+    "code": "US-NY-057",
+    "state": "New York"
+  },
+  {
+    "name": "New Windsor",
+    "code": "US-NY-058",
+    "state": "New York"
+  },
+  {
+    "name": "New York City",
+    "code": "US-NY-059",
+    "state": "New York"
+  },
+  {
+    "name": "Newburgh",
+    "code": "US-NY-060",
+    "state": "New York"
+  },
+  {
+    "name": "Niagara Falls",
+    "code": "US-NY-061",
+    "state": "New York"
+  },
+  {
+    "name": "North Hempstead",
+    "code": "US-NY-062",
+    "state": "New York"
+  },
+  {
+    "name": "Nyack",
+    "code": "US-NY-063",
+    "state": "New York"
+  },
+  {
+    "name": "Ogdensburg",
+    "code": "US-NY-064",
+    "state": "New York"
+  },
+  {
+    "name": "Olean",
+    "code": "US-NY-065",
+    "state": "New York"
+  },
+  {
+    "name": "Oneida",
+    "code": "US-NY-066",
+    "state": "New York"
+  },
+  {
+    "name": "Oneonta",
+    "code": "US-NY-067",
+    "state": "New York"
+  },
+  {
+    "name": "Ossining",
+    "code": "US-NY-068",
+    "state": "New York"
+  },
+  {
+    "name": "Oswego",
+    "code": "US-NY-069",
+    "state": "New York"
+  },
+  {
+    "name": "Oyster Bay",
+    "code": "US-NY-070",
+    "state": "New York"
+  },
+  {
+    "name": "Palmyra",
+    "code": "US-NY-071",
+    "state": "New York"
+  },
+  {
+    "name": "Peekskill",
+    "code": "US-NY-072",
+    "state": "New York"
+  },
+  {
+    "name": "Plattsburgh",
+    "code": "US-NY-073",
+    "state": "New York"
+  },
+  {
+    "name": "Port Washington",
+    "code": "US-NY-074",
+    "state": "New York"
+  },
+  {
+    "name": "Potsdam",
+    "code": "US-NY-075",
+    "state": "New York"
+  },
+  {
+    "name": "Poughkeepsie",
+    "code": "US-NY-076",
+    "state": "New York"
+  },
+  {
+    "name": "Queens",
+    "code": "US-NY-077",
+    "state": "New York"
+  },
+  {
+    "name": "Rensselaer",
+    "code": "US-NY-078",
+    "state": "New York"
+  },
+  {
+    "name": "Rochester",
+    "code": "US-NY-079",
+    "state": "New York"
+  },
+  {
+    "name": "Rome",
+    "code": "US-NY-080",
+    "state": "New York"
+  },
+  {
+    "name": "Rotterdam",
+    "code": "US-NY-081",
+    "state": "New York"
+  },
+  {
+    "name": "Rye",
+    "code": "US-NY-082",
+    "state": "New York"
+  },
+  {
+    "name": "Sag Harbor",
+    "code": "US-NY-083",
+    "state": "New York"
+  },
+  {
+    "name": "Saranac Lake",
+    "code": "US-NY-084",
+    "state": "New York"
+  },
+  {
+    "name": "Saratoga Springs",
+    "code": "US-NY-085",
+    "state": "New York"
+  },
+  {
+    "name": "Scarsdale",
+    "code": "US-NY-086",
+    "state": "New York"
+  },
+  {
+    "name": "Schenectady",
+    "code": "US-NY-087",
+    "state": "New York"
+  },
+  {
+    "name": "Seneca Falls",
+    "code": "US-NY-088",
+    "state": "New York"
+  },
+  {
+    "name": "Southampton",
+    "code": "US-NY-089",
+    "state": "New York"
+  },
+  {
+    "name": "Staten Island",
+    "code": "US-NY-090",
+    "state": "New York"
+  },
+  {
+    "name": "Stony Brook",
+    "code": "US-NY-091",
+    "state": "New York"
+  },
+  {
+    "name": "Stony Point",
+    "code": "US-NY-092",
+    "state": "New York"
+  },
+  {
+    "name": "Syracuse",
+    "code": "US-NY-093",
+    "state": "New York"
+  },
+  {
+    "name": "Tarrytown",
+    "code": "US-NY-094",
+    "state": "New York"
+  },
+  {
+    "name": "Ticonderoga",
+    "code": "US-NY-095",
+    "state": "New York"
+  },
+  {
+    "name": "Tonawanda",
+    "code": "US-NY-096",
+    "state": "New York"
+  },
+  {
+    "name": "Troy",
+    "code": "US-NY-097",
+    "state": "New York"
+  },
+  {
+    "name": "Utica",
+    "code": "US-NY-098",
+    "state": "New York"
+  },
+  {
+    "name": "Watertown",
+    "code": "US-NY-099",
+    "state": "New York"
+  },
+  {
+    "name": "Watervliet",
+    "code": "US-NY-100",
+    "state": "New York"
+  },
+  {
+    "name": "Watkins Glen",
+    "code": "US-NY-101",
+    "state": "New York"
+  },
+  {
+    "name": "West Seneca",
+    "code": "US-NY-102",
+    "state": "New York"
+  },
+  {
+    "name": "White Plains",
+    "code": "US-NY-103",
+    "state": "New York"
+  },
+  {
+    "name": "Woodstock",
+    "code": "US-NY-104",
+    "state": "New York"
+  },
+  {
+    "name": "Yonkers",
+    "code": "US-NY-105",
+    "state": "New York"
+  },
+  {
+    "name": "Asheboro",
+    "code": "US-NC-001",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Asheville",
+    "code": "US-NC-002",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Bath",
+    "code": "US-NC-003",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Beaufort",
+    "code": "US-NC-004",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Boone",
+    "code": "US-NC-005",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Burlington",
+    "code": "US-NC-006",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Chapel Hill",
+    "code": "US-NC-007",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Charlotte",
+    "code": "US-NC-008",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Concord",
+    "code": "US-NC-009",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Durham",
+    "code": "US-NC-010",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Edenton",
+    "code": "US-NC-011",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Elizabeth City",
+    "code": "US-NC-012",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Fayetteville",
+    "code": "US-NC-013",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Gastonia",
+    "code": "US-NC-014",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Goldsboro",
+    "code": "US-NC-015",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Greensboro",
+    "code": "US-NC-016",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Greenville",
+    "code": "US-NC-017",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Halifax",
+    "code": "US-NC-018",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Henderson",
+    "code": "US-NC-019",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Hickory",
+    "code": "US-NC-020",
+    "state": "North Carolina"
+  },
+  {
+    "name": "High Point",
+    "code": "US-NC-021",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Hillsborough",
+    "code": "US-NC-022",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Jacksonville",
+    "code": "US-NC-023",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Kinston",
+    "code": "US-NC-024",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Kitty Hawk",
+    "code": "US-NC-025",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Lumberton",
+    "code": "US-NC-026",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Morehead City",
+    "code": "US-NC-027",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Morganton",
+    "code": "US-NC-028",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Nags Head",
+    "code": "US-NC-029",
+    "state": "North Carolina"
+  },
+  {
+    "name": "New Bern",
+    "code": "US-NC-030",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Pinehurst",
+    "code": "US-NC-031",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Raleigh",
+    "code": "US-NC-032",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Rocky Mount",
+    "code": "US-NC-033",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Salisbury",
+    "code": "US-NC-034",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Shelby",
+    "code": "US-NC-035",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Washington",
+    "code": "US-NC-036",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Wilmington",
+    "code": "US-NC-037",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Wilson",
+    "code": "US-NC-038",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Winston-Salem",
+    "code": "US-NC-039",
+    "state": "North Carolina"
+  },
+  {
+    "name": "Bismarck",
+    "code": "US-ND-001",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Devils Lake",
+    "code": "US-ND-002",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Dickinson",
+    "code": "US-ND-003",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Fargo",
+    "code": "US-ND-004",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Grand Forks",
+    "code": "US-ND-005",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Jamestown",
+    "code": "US-ND-006",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Mandan",
+    "code": "US-ND-007",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Minot",
+    "code": "US-ND-008",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Rugby",
+    "code": "US-ND-009",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Valley City",
+    "code": "US-ND-010",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Wahpeton",
+    "code": "US-ND-011",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Williston",
+    "code": "US-ND-012",
+    "state": "North Dakota"
+  },
+  {
+    "name": "Akron",
+    "code": "US-OH-001",
+    "state": "Ohio"
+  },
+  {
+    "name": "Alliance",
+    "code": "US-OH-002",
+    "state": "Ohio"
+  },
+  {
+    "name": "Ashtabula",
+    "code": "US-OH-003",
+    "state": "Ohio"
+  },
+  {
+    "name": "Athens",
+    "code": "US-OH-004",
+    "state": "Ohio"
+  },
+  {
+    "name": "Barberton",
+    "code": "US-OH-005",
+    "state": "Ohio"
+  },
+  {
+    "name": "Bedford",
+    "code": "US-OH-006",
+    "state": "Ohio"
+  },
+  {
+    "name": "Bellefontaine",
+    "code": "US-OH-007",
+    "state": "Ohio"
+  },
+  {
+    "name": "Bowling Green",
+    "code": "US-OH-008",
+    "state": "Ohio"
+  },
+  {
+    "name": "Canton",
+    "code": "US-OH-009",
+    "state": "Ohio"
+  },
+  {
+    "name": "Chillicothe",
+    "code": "US-OH-010",
+    "state": "Ohio"
+  },
+  {
+    "name": "Cincinnati",
+    "code": "US-OH-011",
+    "state": "Ohio"
+  },
+  {
+    "name": "Cleveland",
+    "code": "US-OH-012",
+    "state": "Ohio"
+  },
+  {
+    "name": "Cleveland Heights",
+    "code": "US-OH-013",
+    "state": "Ohio"
+  },
+  {
+    "name": "Columbus",
+    "code": "US-OH-014",
+    "state": "Ohio"
+  },
+  {
+    "name": "Conneaut",
+    "code": "US-OH-015",
+    "state": "Ohio"
+  },
+  {
+    "name": "Cuyahoga Falls",
+    "code": "US-OH-016",
+    "state": "Ohio"
+  },
+  {
+    "name": "Dayton",
+    "code": "US-OH-017",
+    "state": "Ohio"
+  },
+  {
+    "name": "Defiance",
+    "code": "US-OH-018",
+    "state": "Ohio"
+  },
+  {
+    "name": "Delaware",
+    "code": "US-OH-019",
+    "state": "Ohio"
+  },
+  {
+    "name": "East Cleveland",
+    "code": "US-OH-020",
+    "state": "Ohio"
+  },
+  {
+    "name": "East Liverpool",
+    "code": "US-OH-021",
+    "state": "Ohio"
+  },
+  {
+    "name": "Elyria",
+    "code": "US-OH-022",
+    "state": "Ohio"
+  },
+  {
+    "name": "Euclid",
+    "code": "US-OH-023",
+    "state": "Ohio"
+  },
+  {
+    "name": "Findlay",
+    "code": "US-OH-024",
+    "state": "Ohio"
+  },
+  {
+    "name": "Gallipolis",
+    "code": "US-OH-025",
+    "state": "Ohio"
+  },
+  {
+    "name": "Greenville",
+    "code": "US-OH-026",
+    "state": "Ohio"
+  },
+  {
+    "name": "Hamilton",
+    "code": "US-OH-027",
+    "state": "Ohio"
+  },
+  {
+    "name": "Kent",
+    "code": "US-OH-028",
+    "state": "Ohio"
+  },
+  {
+    "name": "Kettering",
+    "code": "US-OH-029",
+    "state": "Ohio"
+  },
+  {
+    "name": "Lakewood",
+    "code": "US-OH-030",
+    "state": "Ohio"
+  },
+  {
+    "name": "Lancaster",
+    "code": "US-OH-031",
+    "state": "Ohio"
+  },
+  {
+    "name": "Lima",
+    "code": "US-OH-032",
+    "state": "Ohio"
+  },
+  {
+    "name": "Lorain",
+    "code": "US-OH-033",
+    "state": "Ohio"
+  },
+  {
+    "name": "Mansfield",
+    "code": "US-OH-034",
+    "state": "Ohio"
+  },
+  {
+    "name": "Marietta",
+    "code": "US-OH-035",
+    "state": "Ohio"
+  },
+  {
+    "name": "Marion",
+    "code": "US-OH-036",
+    "state": "Ohio"
+  },
+  {
+    "name": "Martins Ferry",
+    "code": "US-OH-037",
+    "state": "Ohio"
+  },
+  {
+    "name": "Massillon",
+    "code": "US-OH-038",
+    "state": "Ohio"
+  },
+  {
+    "name": "Mentor",
+    "code": "US-OH-039",
+    "state": "Ohio"
+  },
+  {
+    "name": "Middletown",
+    "code": "US-OH-040",
+    "state": "Ohio"
+  },
+  {
+    "name": "Milan",
+    "code": "US-OH-041",
+    "state": "Ohio"
+  },
+  {
+    "name": "Mount Vernon",
+    "code": "US-OH-042",
+    "state": "Ohio"
+  },
+  {
+    "name": "New Philadelphia",
+    "code": "US-OH-043",
+    "state": "Ohio"
+  },
+  {
+    "name": "Newark",
+    "code": "US-OH-044",
+    "state": "Ohio"
+  },
+  {
+    "name": "Niles",
+    "code": "US-OH-045",
+    "state": "Ohio"
+  },
+  {
+    "name": "North College Hill",
+    "code": "US-OH-046",
+    "state": "Ohio"
+  },
+  {
+    "name": "Norwalk",
+    "code": "US-OH-047",
+    "state": "Ohio"
+  },
+  {
+    "name": "Oberlin",
+    "code": "US-OH-048",
+    "state": "Ohio"
+  },
+  {
+    "name": "Painesville",
+    "code": "US-OH-049",
+    "state": "Ohio"
+  },
+  {
+    "name": "Parma",
+    "code": "US-OH-050",
+    "state": "Ohio"
+  },
+  {
+    "name": "Piqua",
+    "code": "US-OH-051",
+    "state": "Ohio"
+  },
+  {
+    "name": "Portsmouth",
+    "code": "US-OH-052",
+    "state": "Ohio"
+  },
+  {
+    "name": "Put-in-Bay",
+    "code": "US-OH-053",
+    "state": "Ohio"
+  },
+  {
+    "name": "Salem",
+    "code": "US-OH-054",
+    "state": "Ohio"
+  },
+  {
+    "name": "Sandusky",
+    "code": "US-OH-055",
+    "state": "Ohio"
+  },
+  {
+    "name": "Shaker Heights",
+    "code": "US-OH-056",
+    "state": "Ohio"
+  },
+  {
+    "name": "Springfield",
+    "code": "US-OH-057",
+    "state": "Ohio"
+  },
+  {
+    "name": "Steubenville",
+    "code": "US-OH-058",
+    "state": "Ohio"
+  },
+  {
+    "name": "Tiffin",
+    "code": "US-OH-059",
+    "state": "Ohio"
+  },
+  {
+    "name": "Toledo",
+    "code": "US-OH-060",
+    "state": "Ohio"
+  },
+  {
+    "name": "Urbana",
+    "code": "US-OH-061",
+    "state": "Ohio"
+  },
+  {
+    "name": "Warren",
+    "code": "US-OH-062",
+    "state": "Ohio"
+  },
+  {
+    "name": "Wooster",
+    "code": "US-OH-063",
+    "state": "Ohio"
+  },
+  {
+    "name": "Worthington",
+    "code": "US-OH-064",
+    "state": "Ohio"
+  },
+  {
+    "name": "Xenia",
+    "code": "US-OH-065",
+    "state": "Ohio"
+  },
+  {
+    "name": "Yellow Springs",
+    "code": "US-OH-066",
+    "state": "Ohio"
+  },
+  {
+    "name": "Youngstown",
+    "code": "US-OH-067",
+    "state": "Ohio"
+  },
+  {
+    "name": "Zanesville",
+    "code": "US-OH-068",
+    "state": "Ohio"
+  },
+  {
+    "name": "Ada",
+    "code": "US-OK-001",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Altus",
+    "code": "US-OK-002",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Alva",
+    "code": "US-OK-003",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Anadarko",
+    "code": "US-OK-004",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Ardmore",
+    "code": "US-OK-005",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Bartlesville",
+    "code": "US-OK-006",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Bethany",
+    "code": "US-OK-007",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Chickasha",
+    "code": "US-OK-008",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Claremore",
+    "code": "US-OK-009",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Clinton",
+    "code": "US-OK-010",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Cushing",
+    "code": "US-OK-011",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Duncan",
+    "code": "US-OK-012",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Durant",
+    "code": "US-OK-013",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Edmond",
+    "code": "US-OK-014",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "El Reno",
+    "code": "US-OK-015",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Elk City",
+    "code": "US-OK-016",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Enid",
+    "code": "US-OK-017",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Eufaula",
+    "code": "US-OK-018",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Frederick",
+    "code": "US-OK-019",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Guthrie",
+    "code": "US-OK-020",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Guymon",
+    "code": "US-OK-021",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Hobart",
+    "code": "US-OK-022",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Holdenville",
+    "code": "US-OK-023",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Hugo",
+    "code": "US-OK-024",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Lawton",
+    "code": "US-OK-025",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "McAlester",
+    "code": "US-OK-026",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Miami",
+    "code": "US-OK-027",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Midwest City",
+    "code": "US-OK-028",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Moore",
+    "code": "US-OK-029",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Muskogee",
+    "code": "US-OK-030",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Norman",
+    "code": "US-OK-031",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Oklahoma City",
+    "code": "US-OK-032",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Okmulgee",
+    "code": "US-OK-033",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Pauls Valley",
+    "code": "US-OK-034",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Pawhuska",
+    "code": "US-OK-035",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Perry",
+    "code": "US-OK-036",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Ponca City",
+    "code": "US-OK-037",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Pryor",
+    "code": "US-OK-038",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Sallisaw",
+    "code": "US-OK-039",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Sand Springs",
+    "code": "US-OK-040",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Sapulpa",
+    "code": "US-OK-041",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Seminole",
+    "code": "US-OK-042",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Shawnee",
+    "code": "US-OK-043",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Stillwater",
+    "code": "US-OK-044",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Tahlequah",
+    "code": "US-OK-045",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "The Village",
+    "code": "US-OK-046",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Tulsa",
+    "code": "US-OK-047",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Vinita",
+    "code": "US-OK-048",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Wewoka",
+    "code": "US-OK-049",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Woodward",
+    "code": "US-OK-050",
+    "state": "Oklahoma"
+  },
+  {
+    "name": "Albany",
+    "code": "US-OR-001",
+    "state": "Oregon"
+  },
+  {
+    "name": "Ashland",
+    "code": "US-OR-002",
+    "state": "Oregon"
+  },
+  {
+    "name": "Astoria",
+    "code": "US-OR-003",
+    "state": "Oregon"
+  },
+  {
+    "name": "Baker City",
+    "code": "US-OR-004",
+    "state": "Oregon"
+  },
+  {
+    "name": "Beaverton",
+    "code": "US-OR-005",
+    "state": "Oregon"
+  },
+  {
+    "name": "Bend",
+    "code": "US-OR-006",
+    "state": "Oregon"
+  },
+  {
+    "name": "Brookings",
+    "code": "US-OR-007",
+    "state": "Oregon"
+  },
+  {
+    "name": "Burns",
+    "code": "US-OR-008",
+    "state": "Oregon"
+  },
+  {
+    "name": "Coos Bay",
+    "code": "US-OR-009",
+    "state": "Oregon"
+  },
+  {
+    "name": "Corvallis",
+    "code": "US-OR-010",
+    "state": "Oregon"
+  },
+  {
+    "name": "Eugene",
+    "code": "US-OR-011",
+    "state": "Oregon"
+  },
+  {
+    "name": "Grants Pass",
+    "code": "US-OR-012",
+    "state": "Oregon"
+  },
+  {
+    "name": "Hillsboro",
+    "code": "US-OR-013",
+    "state": "Oregon"
+  },
+  {
+    "name": "Hood River",
+    "code": "US-OR-014",
+    "state": "Oregon"
+  },
+  {
+    "name": "Jacksonville",
+    "code": "US-OR-015",
+    "state": "Oregon"
+  },
+  {
+    "name": "John Day",
+    "code": "US-OR-016",
+    "state": "Oregon"
+  },
+  {
+    "name": "Klamath Falls",
+    "code": "US-OR-017",
+    "state": "Oregon"
+  },
+  {
+    "name": "La Grande",
+    "code": "US-OR-018",
+    "state": "Oregon"
+  },
+  {
+    "name": "Lake Oswego",
+    "code": "US-OR-019",
+    "state": "Oregon"
+  },
+  {
+    "name": "Lakeview",
+    "code": "US-OR-020",
+    "state": "Oregon"
+  },
+  {
+    "name": "McMinnville",
+    "code": "US-OR-021",
+    "state": "Oregon"
+  },
+  {
+    "name": "Medford",
+    "code": "US-OR-022",
+    "state": "Oregon"
+  },
+  {
+    "name": "Newberg",
+    "code": "US-OR-023",
+    "state": "Oregon"
+  },
+  {
+    "name": "Newport",
+    "code": "US-OR-024",
+    "state": "Oregon"
+  },
+  {
+    "name": "Ontario",
+    "code": "US-OR-025",
+    "state": "Oregon"
+  },
+  {
+    "name": "Oregon City",
+    "code": "US-OR-026",
+    "state": "Oregon"
+  },
+  {
+    "name": "Pendleton",
+    "code": "US-OR-027",
+    "state": "Oregon"
+  },
+  {
+    "name": "Port Orford",
+    "code": "US-OR-028",
+    "state": "Oregon"
+  },
+  {
+    "name": "Portland",
+    "code": "US-OR-029",
+    "state": "Oregon"
+  },
+  {
+    "name": "Prineville",
+    "code": "US-OR-030",
+    "state": "Oregon"
+  },
+  {
+    "name": "Redmond",
+    "code": "US-OR-031",
+    "state": "Oregon"
+  },
+  {
+    "name": "Reedsport",
+    "code": "US-OR-032",
+    "state": "Oregon"
+  },
+  {
+    "name": "Roseburg",
+    "code": "US-OR-033",
+    "state": "Oregon"
+  },
+  {
+    "name": "Salem",
+    "code": "US-OR-034",
+    "state": "Oregon"
+  },
+  {
+    "name": "Seaside",
+    "code": "US-OR-035",
+    "state": "Oregon"
+  },
+  {
+    "name": "Springfield",
+    "code": "US-OR-036",
+    "state": "Oregon"
+  },
+  {
+    "name": "The Dalles",
+    "code": "US-OR-037",
+    "state": "Oregon"
+  },
+  {
+    "name": "Tillamook",
+    "code": "US-OR-038",
+    "state": "Oregon"
+  },
+  {
+    "name": "Abington",
+    "code": "US-PA-001",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Aliquippa",
+    "code": "US-PA-002",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Allentown",
+    "code": "US-PA-003",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Altoona",
+    "code": "US-PA-004",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Ambridge",
+    "code": "US-PA-005",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Bedford",
+    "code": "US-PA-006",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Bethlehem",
+    "code": "US-PA-007",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Bloomsburg",
+    "code": "US-PA-008",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Bradford",
+    "code": "US-PA-009",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Bristol",
+    "code": "US-PA-010",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Carbondale",
+    "code": "US-PA-011",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Carlisle",
+    "code": "US-PA-012",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Chambersburg",
+    "code": "US-PA-013",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Chester",
+    "code": "US-PA-014",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Columbia",
+    "code": "US-PA-015",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Easton",
+    "code": "US-PA-016",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Erie",
+    "code": "US-PA-017",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Franklin",
+    "code": "US-PA-018",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Germantown",
+    "code": "US-PA-019",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Gettysburg",
+    "code": "US-PA-020",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Greensburg",
+    "code": "US-PA-021",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Hanover",
+    "code": "US-PA-022",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Harmony",
+    "code": "US-PA-023",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Harrisburg",
+    "code": "US-PA-024",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Hazleton",
+    "code": "US-PA-025",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Hershey",
+    "code": "US-PA-026",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Homestead",
+    "code": "US-PA-027",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Honesdale",
+    "code": "US-PA-028",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Indiana",
+    "code": "US-PA-029",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Jeannette",
+    "code": "US-PA-030",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Jim Thorpe",
+    "code": "US-PA-031",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Johnstown",
+    "code": "US-PA-032",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Lancaster",
+    "code": "US-PA-033",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Lebanon",
+    "code": "US-PA-034",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Levittown",
+    "code": "US-PA-035",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Lewistown",
+    "code": "US-PA-036",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Lock Haven",
+    "code": "US-PA-037",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Lower Southampton",
+    "code": "US-PA-038",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "McKeesport",
+    "code": "US-PA-039",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Meadville",
+    "code": "US-PA-040",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Middletown",
+    "code": "US-PA-041",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Monroeville",
+    "code": "US-PA-042",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Nanticoke",
+    "code": "US-PA-043",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "New Castle",
+    "code": "US-PA-044",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "New Hope",
+    "code": "US-PA-045",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "New Kensington",
+    "code": "US-PA-046",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Norristown",
+    "code": "US-PA-047",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Oil City",
+    "code": "US-PA-048",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Philadelphia",
+    "code": "US-PA-049",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Phoenixville",
+    "code": "US-PA-050",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Pittsburgh",
+    "code": "US-PA-051",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Pottstown",
+    "code": "US-PA-052",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Pottsville",
+    "code": "US-PA-053",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Reading",
+    "code": "US-PA-054",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Scranton",
+    "code": "US-PA-055",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Shamokin",
+    "code": "US-PA-056",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Sharon",
+    "code": "US-PA-057",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "State College",
+    "code": "US-PA-058",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Stroudsburg",
+    "code": "US-PA-059",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Sunbury",
+    "code": "US-PA-060",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Swarthmore",
+    "code": "US-PA-061",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Tamaqua",
+    "code": "US-PA-062",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Titusville",
+    "code": "US-PA-063",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Uniontown",
+    "code": "US-PA-064",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Warren",
+    "code": "US-PA-065",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Washington",
+    "code": "US-PA-066",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "West Chester",
+    "code": "US-PA-067",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Wilkes-Barre",
+    "code": "US-PA-068",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Williamsport",
+    "code": "US-PA-069",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "York",
+    "code": "US-PA-070",
+    "state": "Pennsylvania"
+  },
+  {
+    "name": "Barrington",
+    "code": "US-RI-001",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Bristol",
+    "code": "US-RI-002",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Central Falls",
+    "code": "US-RI-003",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Cranston",
+    "code": "US-RI-004",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "East Greenwich",
+    "code": "US-RI-005",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "East Providence",
+    "code": "US-RI-006",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Kingston",
+    "code": "US-RI-007",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Middletown",
+    "code": "US-RI-008",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Narragansett",
+    "code": "US-RI-009",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Newport",
+    "code": "US-RI-010",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "North Kingstown",
+    "code": "US-RI-011",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Pawtucket",
+    "code": "US-RI-012",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Portsmouth",
+    "code": "US-RI-013",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Providence",
+    "code": "US-RI-014",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "South Kingstown",
+    "code": "US-RI-015",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Tiverton",
+    "code": "US-RI-016",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Warren",
+    "code": "US-RI-017",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Warwick",
+    "code": "US-RI-018",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Westerly",
+    "code": "US-RI-019",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Wickford",
+    "code": "US-RI-020",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Woonsocket",
+    "code": "US-RI-021",
+    "state": "Rhode Island"
+  },
+  {
+    "name": "Abbeville",
+    "code": "US-SC-001",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Aiken",
+    "code": "US-SC-002",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Anderson",
+    "code": "US-SC-003",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Beaufort",
+    "code": "US-SC-004",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Camden",
+    "code": "US-SC-005",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Charleston",
+    "code": "US-SC-006",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Columbia",
+    "code": "US-SC-007",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Darlington",
+    "code": "US-SC-008",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Florence",
+    "code": "US-SC-009",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Gaffney",
+    "code": "US-SC-010",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Georgetown",
+    "code": "US-SC-011",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Greenville",
+    "code": "US-SC-012",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Greenwood",
+    "code": "US-SC-013",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Hartsville",
+    "code": "US-SC-014",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Lancaster",
+    "code": "US-SC-015",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Mount Pleasant",
+    "code": "US-SC-016",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Myrtle Beach",
+    "code": "US-SC-017",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Orangeburg",
+    "code": "US-SC-018",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Rock Hill",
+    "code": "US-SC-019",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Spartanburg",
+    "code": "US-SC-020",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Sumter",
+    "code": "US-SC-021",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Union",
+    "code": "US-SC-022",
+    "state": "South Carolina"
+  },
+  {
+    "name": "Aberdeen",
+    "code": "US-SD-001",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Belle Fourche",
+    "code": "US-SD-002",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Brookings",
+    "code": "US-SD-003",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Canton",
+    "code": "US-SD-004",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Custer",
+    "code": "US-SD-005",
+    "state": "South Dakota"
+  },
+  {
+    "name": "De Smet",
+    "code": "US-SD-006",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Deadwood",
+    "code": "US-SD-007",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Hot Springs",
+    "code": "US-SD-008",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Huron",
+    "code": "US-SD-009",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Lead",
+    "code": "US-SD-010",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Madison",
+    "code": "US-SD-011",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Milbank",
+    "code": "US-SD-012",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Mitchell",
+    "code": "US-SD-013",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Mobridge",
+    "code": "US-SD-014",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Pierre",
+    "code": "US-SD-015",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Rapid City",
+    "code": "US-SD-016",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Sioux Falls",
+    "code": "US-SD-017",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Spearfish",
+    "code": "US-SD-018",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Sturgis",
+    "code": "US-SD-019",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Vermillion",
+    "code": "US-SD-020",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Watertown",
+    "code": "US-SD-021",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Yankton",
+    "code": "US-SD-022",
+    "state": "South Dakota"
+  },
+  {
+    "name": "Alcoa",
+    "code": "US-TN-001",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Athens",
+    "code": "US-TN-002",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Chattanooga",
+    "code": "US-TN-003",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Clarksville",
+    "code": "US-TN-004",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Cleveland",
+    "code": "US-TN-005",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Columbia",
+    "code": "US-TN-006",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Cookeville",
+    "code": "US-TN-007",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Dayton",
+    "code": "US-TN-008",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Elizabethton",
+    "code": "US-TN-009",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Franklin",
+    "code": "US-TN-010",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Gallatin",
+    "code": "US-TN-011",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Gatlinburg",
+    "code": "US-TN-012",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Greeneville",
+    "code": "US-TN-013",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Jackson",
+    "code": "US-TN-014",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Johnson City",
+    "code": "US-TN-015",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Jonesborough",
+    "code": "US-TN-016",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Kingsport",
+    "code": "US-TN-017",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Knoxville",
+    "code": "US-TN-018",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Lebanon",
+    "code": "US-TN-019",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Maryville",
+    "code": "US-TN-020",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Memphis",
+    "code": "US-TN-021",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Morristown",
+    "code": "US-TN-022",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Murfreesboro",
+    "code": "US-TN-023",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Nashville",
+    "code": "US-TN-024",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Norris",
+    "code": "US-TN-025",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Oak Ridge",
+    "code": "US-TN-026",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Shelbyville",
+    "code": "US-TN-027",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Tullahoma",
+    "code": "US-TN-028",
+    "state": "Tennessee"
+  },
+  {
+    "name": "Abilene",
+    "code": "US-TX-001",
+    "state": "Texas"
+  },
+  {
+    "name": "Alpine",
+    "code": "US-TX-002",
+    "state": "Texas"
+  },
+  {
+    "name": "Amarillo",
+    "code": "US-TX-003",
+    "state": "Texas"
+  },
+  {
+    "name": "Arlington",
+    "code": "US-TX-004",
+    "state": "Texas"
+  },
+  {
+    "name": "Austin",
+    "code": "US-TX-005",
+    "state": "Texas"
+  },
+  {
+    "name": "Baytown",
+    "code": "US-TX-006",
+    "state": "Texas"
+  },
+  {
+    "name": "Beaumont",
+    "code": "US-TX-007",
+    "state": "Texas"
+  },
+  {
+    "name": "Big Spring",
+    "code": "US-TX-008",
+    "state": "Texas"
+  },
+  {
+    "name": "Borger",
+    "code": "US-TX-009",
+    "state": "Texas"
+  },
+  {
+    "name": "Brownsville",
+    "code": "US-TX-010",
+    "state": "Texas"
+  },
+  {
+    "name": "Bryan",
+    "code": "US-TX-011",
+    "state": "Texas"
+  },
+  {
+    "name": "Canyon",
+    "code": "US-TX-012",
+    "state": "Texas"
+  },
+  {
+    "name": "Cleburne",
+    "code": "US-TX-013",
+    "state": "Texas"
+  },
+  {
+    "name": "College Station",
+    "code": "US-TX-014",
+    "state": "Texas"
+  },
+  {
+    "name": "Corpus Christi",
+    "code": "US-TX-015",
+    "state": "Texas"
+  },
+  {
+    "name": "Crystal City",
+    "code": "US-TX-016",
+    "state": "Texas"
+  },
+  {
+    "name": "Dallas",
+    "code": "US-TX-017",
+    "state": "Texas"
+  },
+  {
+    "name": "Del Rio",
+    "code": "US-TX-018",
+    "state": "Texas"
+  },
+  {
+    "name": "Denison",
+    "code": "US-TX-019",
+    "state": "Texas"
+  },
+  {
+    "name": "Denton",
+    "code": "US-TX-020",
+    "state": "Texas"
+  },
+  {
+    "name": "Eagle Pass",
+    "code": "US-TX-021",
+    "state": "Texas"
+  },
+  {
+    "name": "Edinburg",
+    "code": "US-TX-022",
+    "state": "Texas"
+  },
+  {
+    "name": "El Paso",
+    "code": "US-TX-023",
+    "state": "Texas"
+  },
+  {
+    "name": "Fort Worth",
+    "code": "US-TX-024",
+    "state": "Texas"
+  },
+  {
+    "name": "Freeport",
+    "code": "US-TX-025",
+    "state": "Texas"
+  },
+  {
+    "name": "Galveston",
+    "code": "US-TX-026",
+    "state": "Texas"
+  },
+  {
+    "name": "Garland",
+    "code": "US-TX-027",
+    "state": "Texas"
+  },
+  {
+    "name": "Goliad",
+    "code": "US-TX-028",
+    "state": "Texas"
+  },
+  {
+    "name": "Greenville",
+    "code": "US-TX-029",
+    "state": "Texas"
+  },
+  {
+    "name": "Harlingen",
+    "code": "US-TX-030",
+    "state": "Texas"
+  },
+  {
+    "name": "Houston",
+    "code": "US-TX-031",
+    "state": "Texas"
+  },
+  {
+    "name": "Huntsville",
+    "code": "US-TX-032",
+    "state": "Texas"
+  },
+  {
+    "name": "Irving",
+    "code": "US-TX-033",
+    "state": "Texas"
+  },
+  {
+    "name": "Johnson City",
+    "code": "US-TX-034",
+    "state": "Texas"
+  },
+  {
+    "name": "Kilgore",
+    "code": "US-TX-035",
+    "state": "Texas"
+  },
+  {
+    "name": "Killeen",
+    "code": "US-TX-036",
+    "state": "Texas"
+  },
+  {
+    "name": "Kingsville",
+    "code": "US-TX-037",
+    "state": "Texas"
+  },
+  {
+    "name": "Laredo",
+    "code": "US-TX-038",
+    "state": "Texas"
+  },
+  {
+    "name": "Longview",
+    "code": "US-TX-039",
+    "state": "Texas"
+  },
+  {
+    "name": "Lubbock",
+    "code": "US-TX-040",
+    "state": "Texas"
+  },
+  {
+    "name": "Lufkin",
+    "code": "US-TX-041",
+    "state": "Texas"
+  },
+  {
+    "name": "Marshall",
+    "code": "US-TX-042",
+    "state": "Texas"
+  },
+  {
+    "name": "McAllen",
+    "code": "US-TX-043",
+    "state": "Texas"
+  },
+  {
+    "name": "McKinney",
+    "code": "US-TX-044",
+    "state": "Texas"
+  },
+  {
+    "name": "Mesquite",
+    "code": "US-TX-045",
+    "state": "Texas"
+  },
+  {
+    "name": "Midland",
+    "code": "US-TX-046",
+    "state": "Texas"
+  },
+  {
+    "name": "Mission",
+    "code": "US-TX-047",
+    "state": "Texas"
+  },
+  {
+    "name": "Nacogdoches",
+    "code": "US-TX-048",
+    "state": "Texas"
+  },
+  {
+    "name": "New Braunfels",
+    "code": "US-TX-049",
+    "state": "Texas"
+  },
+  {
+    "name": "Odessa",
+    "code": "US-TX-050",
+    "state": "Texas"
+  },
+  {
+    "name": "Orange",
+    "code": "US-TX-051",
+    "state": "Texas"
+  },
+  {
+    "name": "Pampa",
+    "code": "US-TX-052",
+    "state": "Texas"
+  },
+  {
+    "name": "Paris",
+    "code": "US-TX-053",
+    "state": "Texas"
+  },
+  {
+    "name": "Pasadena",
+    "code": "US-TX-054",
+    "state": "Texas"
+  },
+  {
+    "name": "Pecos",
+    "code": "US-TX-055",
+    "state": "Texas"
+  },
+  {
+    "name": "Pharr",
+    "code": "US-TX-056",
+    "state": "Texas"
+  },
+  {
+    "name": "Plainview",
+    "code": "US-TX-057",
+    "state": "Texas"
+  },
+  {
+    "name": "Plano",
+    "code": "US-TX-058",
+    "state": "Texas"
+  },
+  {
+    "name": "Port Arthur",
+    "code": "US-TX-059",
+    "state": "Texas"
+  },
+  {
+    "name": "Port Lavaca",
+    "code": "US-TX-060",
+    "state": "Texas"
+  },
+  {
+    "name": "Richardson",
+    "code": "US-TX-061",
+    "state": "Texas"
+  },
+  {
+    "name": "San Angelo",
+    "code": "US-TX-062",
+    "state": "Texas"
+  },
+  {
+    "name": "San Antonio",
+    "code": "US-TX-063",
+    "state": "Texas"
+  },
+  {
+    "name": "San Felipe",
+    "code": "US-TX-064",
+    "state": "Texas"
+  },
+  {
+    "name": "San Marcos",
+    "code": "US-TX-065",
+    "state": "Texas"
+  },
+  {
+    "name": "Sherman",
+    "code": "US-TX-066",
+    "state": "Texas"
+  },
+  {
+    "name": "Sweetwater",
+    "code": "US-TX-067",
+    "state": "Texas"
+  },
+  {
+    "name": "Temple",
+    "code": "US-TX-068",
+    "state": "Texas"
+  },
+  {
+    "name": "Texarkana",
+    "code": "US-TX-069",
+    "state": "Texas"
+  },
+  {
+    "name": "Texas City",
+    "code": "US-TX-070",
+    "state": "Texas"
+  },
+  {
+    "name": "Tyler",
+    "code": "US-TX-071",
+    "state": "Texas"
+  },
+  {
+    "name": "Uvalde",
+    "code": "US-TX-072",
+    "state": "Texas"
+  },
+  {
+    "name": "Victoria",
+    "code": "US-TX-073",
+    "state": "Texas"
+  },
+  {
+    "name": "Waco",
+    "code": "US-TX-074",
+    "state": "Texas"
+  },
+  {
+    "name": "Weatherford",
+    "code": "US-TX-075",
+    "state": "Texas"
+  },
+  {
+    "name": "Wichita Falls",
+    "code": "US-TX-076",
+    "state": "Texas"
+  },
+  {
+    "name": "Ysleta",
+    "code": "US-TX-077",
+    "state": "Texas"
+  },
+  {
+    "name": "Alta",
+    "code": "US-UT-001",
+    "state": "Utah"
+  },
+  {
+    "name": "American Fork",
+    "code": "US-UT-002",
+    "state": "Utah"
+  },
+  {
+    "name": "Bountiful",
+    "code": "US-UT-003",
+    "state": "Utah"
+  },
+  {
+    "name": "Brigham City",
+    "code": "US-UT-004",
+    "state": "Utah"
+  },
+  {
+    "name": "Cedar City",
+    "code": "US-UT-005",
+    "state": "Utah"
+  },
+  {
+    "name": "Clearfield",
+    "code": "US-UT-006",
+    "state": "Utah"
+  },
+  {
+    "name": "Delta",
+    "code": "US-UT-007",
+    "state": "Utah"
+  },
+  {
+    "name": "Fillmore",
+    "code": "US-UT-008",
+    "state": "Utah"
+  },
+  {
+    "name": "Green River",
+    "code": "US-UT-009",
+    "state": "Utah"
+  },
+  {
+    "name": "Heber City",
+    "code": "US-UT-010",
+    "state": "Utah"
+  },
+  {
+    "name": "Kanab",
+    "code": "US-UT-011",
+    "state": "Utah"
+  },
+  {
+    "name": "Layton",
+    "code": "US-UT-012",
+    "state": "Utah"
+  },
+  {
+    "name": "Lehi",
+    "code": "US-UT-013",
+    "state": "Utah"
+  },
+  {
+    "name": "Logan",
+    "code": "US-UT-014",
+    "state": "Utah"
+  },
+  {
+    "name": "Manti",
+    "code": "US-UT-015",
+    "state": "Utah"
+  },
+  {
+    "name": "Moab",
+    "code": "US-UT-016",
+    "state": "Utah"
+  },
+  {
+    "name": "Monticello",
+    "code": "US-UT-017",
+    "state": "Utah"
+  },
+  {
+    "name": "Murray",
+    "code": "US-UT-018",
+    "state": "Utah"
+  },
+  {
+    "name": "Nephi",
+    "code": "US-UT-019",
+    "state": "Utah"
+  },
+  {
+    "name": "Ogden",
+    "code": "US-UT-020",
+    "state": "Utah"
+  },
+  {
+    "name": "Orderville",
+    "code": "US-UT-021",
+    "state": "Utah"
+  },
+  {
+    "name": "Orem",
+    "code": "US-UT-022",
+    "state": "Utah"
+  },
+  {
+    "name": "Panguitch",
+    "code": "US-UT-023",
+    "state": "Utah"
+  },
+  {
+    "name": "Park City",
+    "code": "US-UT-024",
+    "state": "Utah"
+  },
+  {
+    "name": "Payson",
+    "code": "US-UT-025",
+    "state": "Utah"
+  },
+  {
+    "name": "Price",
+    "code": "US-UT-026",
+    "state": "Utah"
+  },
+  {
+    "name": "Provo",
+    "code": "US-UT-027",
+    "state": "Utah"
+  },
+  {
+    "name": "Saint George",
+    "code": "US-UT-028",
+    "state": "Utah"
+  },
+  {
+    "name": "Salt Lake City",
+    "code": "US-UT-029",
+    "state": "Utah"
+  },
+  {
+    "name": "Spanish Fork",
+    "code": "US-UT-030",
+    "state": "Utah"
+  },
+  {
+    "name": "Springville",
+    "code": "US-UT-031",
+    "state": "Utah"
+  },
+  {
+    "name": "Tooele",
+    "code": "US-UT-032",
+    "state": "Utah"
+  },
+  {
+    "name": "Vernal",
+    "code": "US-UT-033",
+    "state": "Utah"
+  },
+  {
+    "name": "Barre",
+    "code": "US-VT-001",
+    "state": "Vermont"
+  },
+  {
+    "name": "Bellows Falls",
+    "code": "US-VT-002",
+    "state": "Vermont"
+  },
+  {
+    "name": "Bennington",
+    "code": "US-VT-003",
+    "state": "Vermont"
+  },
+  {
+    "name": "Brattleboro",
+    "code": "US-VT-004",
+    "state": "Vermont"
+  },
+  {
+    "name": "Burlington",
+    "code": "US-VT-005",
+    "state": "Vermont"
+  },
+  {
+    "name": "Essex",
+    "code": "US-VT-006",
+    "state": "Vermont"
+  },
+  {
+    "name": "Manchester",
+    "code": "US-VT-007",
+    "state": "Vermont"
+  },
+  {
+    "name": "Middlebury",
+    "code": "US-VT-008",
+    "state": "Vermont"
+  },
+  {
+    "name": "Montpelier",
+    "code": "US-VT-009",
+    "state": "Vermont"
+  },
+  {
+    "name": "Newport",
+    "code": "US-VT-010",
+    "state": "Vermont"
+  },
+  {
+    "name": "Plymouth",
+    "code": "US-VT-011",
+    "state": "Vermont"
+  },
+  {
+    "name": "Rutland",
+    "code": "US-VT-012",
+    "state": "Vermont"
+  },
+  {
+    "name": "Saint Albans",
+    "code": "US-VT-013",
+    "state": "Vermont"
+  },
+  {
+    "name": "Saint Johnsbury",
+    "code": "US-VT-014",
+    "state": "Vermont"
+  },
+  {
+    "name": "Sharon",
+    "code": "US-VT-015",
+    "state": "Vermont"
+  },
+  {
+    "name": "Winooski",
+    "code": "US-VT-016",
+    "state": "Vermont"
+  },
+  {
+    "name": "Abingdon",
+    "code": "US-VA-001",
+    "state": "Virginia"
+  },
+  {
+    "name": "Alexandria",
+    "code": "US-VA-002",
+    "state": "Virginia"
+  },
+  {
+    "name": "Bristol",
+    "code": "US-VA-003",
+    "state": "Virginia"
+  },
+  {
+    "name": "Charlottesville",
+    "code": "US-VA-004",
+    "state": "Virginia"
+  },
+  {
+    "name": "Chesapeake",
+    "code": "US-VA-005",
+    "state": "Virginia"
+  },
+  {
+    "name": "Danville",
+    "code": "US-VA-006",
+    "state": "Virginia"
+  },
+  {
+    "name": "Fairfax",
+    "code": "US-VA-007",
+    "state": "Virginia"
+  },
+  {
+    "name": "Falls Church",
+    "code": "US-VA-008",
+    "state": "Virginia"
+  },
+  {
+    "name": "Fredericksburg",
+    "code": "US-VA-009",
+    "state": "Virginia"
+  },
+  {
+    "name": "Hampton",
+    "code": "US-VA-010",
+    "state": "Virginia"
+  },
+  {
+    "name": "Hanover",
+    "code": "US-VA-011",
+    "state": "Virginia"
+  },
+  {
+    "name": "Hopewell",
+    "code": "US-VA-012",
+    "state": "Virginia"
+  },
+  {
+    "name": "Lexington",
+    "code": "US-VA-013",
+    "state": "Virginia"
+  },
+  {
+    "name": "Lynchburg",
+    "code": "US-VA-014",
+    "state": "Virginia"
+  },
+  {
+    "name": "Manassas",
+    "code": "US-VA-015",
+    "state": "Virginia"
+  },
+  {
+    "name": "Martinsville",
+    "code": "US-VA-016",
+    "state": "Virginia"
+  },
+  {
+    "name": "New Market",
+    "code": "US-VA-017",
+    "state": "Virginia"
+  },
+  {
+    "name": "Newport News",
+    "code": "US-VA-018",
+    "state": "Virginia"
+  },
+  {
+    "name": "Norfolk",
+    "code": "US-VA-019",
+    "state": "Virginia"
+  },
+  {
+    "name": "Petersburg",
+    "code": "US-VA-020",
+    "state": "Virginia"
+  },
+  {
+    "name": "Portsmouth",
+    "code": "US-VA-021",
+    "state": "Virginia"
+  },
+  {
+    "name": "Reston",
+    "code": "US-VA-022",
+    "state": "Virginia"
+  },
+  {
+    "name": "Richmond",
+    "code": "US-VA-023",
+    "state": "Virginia"
+  },
+  {
+    "name": "Roanoke",
+    "code": "US-VA-024",
+    "state": "Virginia"
+  },
+  {
+    "name": "Staunton",
+    "code": "US-VA-025",
+    "state": "Virginia"
+  },
+  {
+    "name": "Suffolk",
+    "code": "US-VA-026",
+    "state": "Virginia"
+  },
+  {
+    "name": "Virginia Beach",
+    "code": "US-VA-027",
+    "state": "Virginia"
+  },
+  {
+    "name": "Waynesboro",
+    "code": "US-VA-028",
+    "state": "Virginia"
+  },
+  {
+    "name": "Williamsburg",
+    "code": "US-VA-029",
+    "state": "Virginia"
+  },
+  {
+    "name": "Winchester",
+    "code": "US-VA-030",
+    "state": "Virginia"
+  },
+  {
+    "name": "Aberdeen",
+    "code": "US-WA-001",
+    "state": "Washington"
+  },
+  {
+    "name": "Anacortes",
+    "code": "US-WA-002",
+    "state": "Washington"
+  },
+  {
+    "name": "Auburn",
+    "code": "US-WA-003",
+    "state": "Washington"
+  },
+  {
+    "name": "Bellevue",
+    "code": "US-WA-004",
+    "state": "Washington"
+  },
+  {
+    "name": "Bellingham",
+    "code": "US-WA-005",
+    "state": "Washington"
+  },
+  {
+    "name": "Bremerton",
+    "code": "US-WA-006",
+    "state": "Washington"
+  },
+  {
+    "name": "Centralia",
+    "code": "US-WA-007",
+    "state": "Washington"
+  },
+  {
+    "name": "Coulee Dam",
+    "code": "US-WA-008",
+    "state": "Washington"
+  },
+  {
+    "name": "Coupeville",
+    "code": "US-WA-009",
+    "state": "Washington"
+  },
+  {
+    "name": "Ellensburg",
+    "code": "US-WA-010",
+    "state": "Washington"
+  },
+  {
+    "name": "Ephrata",
+    "code": "US-WA-011",
+    "state": "Washington"
+  },
+  {
+    "name": "Everett",
+    "code": "US-WA-012",
+    "state": "Washington"
+  },
+  {
+    "name": "Hoquiam",
+    "code": "US-WA-013",
+    "state": "Washington"
+  },
+  {
+    "name": "Kelso",
+    "code": "US-WA-014",
+    "state": "Washington"
+  },
+  {
+    "name": "Kennewick",
+    "code": "US-WA-015",
+    "state": "Washington"
+  },
+  {
+    "name": "Longview",
+    "code": "US-WA-016",
+    "state": "Washington"
+  },
+  {
+    "name": "Moses Lake",
+    "code": "US-WA-017",
+    "state": "Washington"
+  },
+  {
+    "name": "Oak Harbor",
+    "code": "US-WA-018",
+    "state": "Washington"
+  },
+  {
+    "name": "Olympia",
+    "code": "US-WA-019",
+    "state": "Washington"
+  },
+  {
+    "name": "Pasco",
+    "code": "US-WA-020",
+    "state": "Washington"
+  },
+  {
+    "name": "Point Roberts",
+    "code": "US-WA-021",
+    "state": "Washington"
+  },
+  {
+    "name": "Port Angeles",
+    "code": "US-WA-022",
+    "state": "Washington"
+  },
+  {
+    "name": "Pullman",
+    "code": "US-WA-023",
+    "state": "Washington"
+  },
+  {
+    "name": "Puyallup",
+    "code": "US-WA-024",
+    "state": "Washington"
+  },
+  {
+    "name": "Redmond",
+    "code": "US-WA-025",
+    "state": "Washington"
+  },
+  {
+    "name": "Renton",
+    "code": "US-WA-026",
+    "state": "Washington"
+  },
+  {
+    "name": "Richland",
+    "code": "US-WA-027",
+    "state": "Washington"
+  },
+  {
+    "name": "Seattle",
+    "code": "US-WA-028",
+    "state": "Washington"
+  },
+  {
+    "name": "Spokane",
+    "code": "US-WA-029",
+    "state": "Washington"
+  },
+  {
+    "name": "Tacoma",
+    "code": "US-WA-030",
+    "state": "Washington"
+  },
+  {
+    "name": "Vancouver",
+    "code": "US-WA-031",
+    "state": "Washington"
+  },
+  {
+    "name": "Walla Walla",
+    "code": "US-WA-032",
+    "state": "Washington"
+  },
+  {
+    "name": "Wenatchee",
+    "code": "US-WA-033",
+    "state": "Washington"
+  },
+  {
+    "name": "Yakima",
+    "code": "US-WA-034",
+    "state": "Washington"
+  },
+  {
+    "name": "Bath",
+    "code": "US-WV-001",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Beckley",
+    "code": "US-WV-002",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Bluefield",
+    "code": "US-WV-003",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Buckhannon",
+    "code": "US-WV-004",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Charles Town",
+    "code": "US-WV-005",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Charleston",
+    "code": "US-WV-006",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Clarksburg",
+    "code": "US-WV-007",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Elkins",
+    "code": "US-WV-008",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Fairmont",
+    "code": "US-WV-009",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Grafton",
+    "code": "US-WV-010",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Harpers Ferry",
+    "code": "US-WV-011",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Hillsboro",
+    "code": "US-WV-012",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Hinton",
+    "code": "US-WV-013",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Huntington",
+    "code": "US-WV-014",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Keyser",
+    "code": "US-WV-015",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Lewisburg",
+    "code": "US-WV-016",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Logan",
+    "code": "US-WV-017",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Martinsburg",
+    "code": "US-WV-018",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Morgantown",
+    "code": "US-WV-019",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Moundsville",
+    "code": "US-WV-020",
+    "state": "West Virginia"
+  },
+  {
+    "name": "New Martinsville",
+    "code": "US-WV-021",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Parkersburg",
+    "code": "US-WV-022",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Philippi",
+    "code": "US-WV-023",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Point Pleasant",
+    "code": "US-WV-024",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Princeton",
+    "code": "US-WV-025",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Romney",
+    "code": "US-WV-026",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Shepherdstown",
+    "code": "US-WV-027",
+    "state": "West Virginia"
+  },
+  {
+    "name": "South Charleston",
+    "code": "US-WV-028",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Summersville",
+    "code": "US-WV-029",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Weirton",
+    "code": "US-WV-030",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Welch",
+    "code": "US-WV-031",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Wellsburg",
+    "code": "US-WV-032",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Weston",
+    "code": "US-WV-033",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Wheeling",
+    "code": "US-WV-034",
+    "state": "West Virginia"
+  },
+  {
+    "name": "White Sulphur Springs",
+    "code": "US-WV-035",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Williamson",
+    "code": "US-WV-036",
+    "state": "West Virginia"
+  },
+  {
+    "name": "Appleton",
+    "code": "US-WI-001",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Ashland",
+    "code": "US-WI-002",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Baraboo",
+    "code": "US-WI-003",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Belmont",
+    "code": "US-WI-004",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Beloit",
+    "code": "US-WI-005",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Eau Claire",
+    "code": "US-WI-006",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Fond du Lac",
+    "code": "US-WI-007",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Green Bay",
+    "code": "US-WI-008",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Hayward",
+    "code": "US-WI-009",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Janesville",
+    "code": "US-WI-010",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Kenosha",
+    "code": "US-WI-011",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "La Crosse",
+    "code": "US-WI-012",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Lake Geneva",
+    "code": "US-WI-013",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Madison",
+    "code": "US-WI-014",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Manitowoc",
+    "code": "US-WI-015",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Marinette",
+    "code": "US-WI-016",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Menasha",
+    "code": "US-WI-017",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Milwaukee",
+    "code": "US-WI-018",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Neenah",
+    "code": "US-WI-019",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "New Glarus",
+    "code": "US-WI-020",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Oconto",
+    "code": "US-WI-021",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Oshkosh",
+    "code": "US-WI-022",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Peshtigo",
+    "code": "US-WI-023",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Portage",
+    "code": "US-WI-024",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Prairie du Chien",
+    "code": "US-WI-025",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Racine",
+    "code": "US-WI-026",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Rhinelander",
+    "code": "US-WI-027",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Ripon",
+    "code": "US-WI-028",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Sheboygan",
+    "code": "US-WI-029",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Spring Green",
+    "code": "US-WI-030",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Stevens Point",
+    "code": "US-WI-031",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Sturgeon Bay",
+    "code": "US-WI-032",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Superior",
+    "code": "US-WI-033",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Waukesha",
+    "code": "US-WI-034",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Wausau",
+    "code": "US-WI-035",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Wauwatosa",
+    "code": "US-WI-036",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "West Allis",
+    "code": "US-WI-037",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "West Bend",
+    "code": "US-WI-038",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Wisconsin Dells",
+    "code": "US-WI-039",
+    "state": "Wisconsin"
+  },
+  {
+    "name": "Buffalo",
+    "code": "US-WY-001",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Casper",
+    "code": "US-WY-002",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Cheyenne",
+    "code": "US-WY-003",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Cody",
+    "code": "US-WY-004",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Douglas",
+    "code": "US-WY-005",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Evanston",
+    "code": "US-WY-006",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Gillette",
+    "code": "US-WY-007",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Green River",
+    "code": "US-WY-008",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Jackson",
+    "code": "US-WY-009",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Lander",
+    "code": "US-WY-010",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Laramie",
+    "code": "US-WY-011",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Newcastle",
+    "code": "US-WY-012",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Powell",
+    "code": "US-WY-013",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Rawlins",
+    "code": "US-WY-014",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Riverton",
+    "code": "US-WY-015",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Rock Springs",
+    "code": "US-WY-016",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Sheridan",
+    "code": "US-WY-017",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Ten Sleep",
+    "code": "US-WY-018",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Thermopolis",
+    "code": "US-WY-019",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Torrington",
+    "code": "US-WY-020",
+    "state": "Wyoming"
+  },
+  {
+    "name": "Worland",
+    "code": "US-WY-021",
+    "state": "Wyoming"
+  }
+]

@@ -1,0 +1,53 @@
+apply plugin: 'jacoco'
+
+test {
+    useJUnitPlatform()
+    finalizedBy jacocoTestReport
+}
+
+dependencies {
+
+    compile(project(":${projectName}-dao")) {
+//        exclude module: "querydsl-jpa"
+        exclude module: "hibernate-jpa-2.1-api"
+//        exclude module: "spring-context"
+        exclude module: "spring-beans"
+        exclude module: "spring-tx"
+    }
+    implementation group: 'org.springframework.data', name: 'spring-data-jpa', version: "$springDataVersion"
+
+    implementation(project(":${projectName}-service"))
+    implementation(project(":${projectName}-integration"))
+    implementation "javax.transaction:javax.transaction-api:1.2"
+    implementation group: 'com.querydsl', name: 'querydsl-jpa', version: '4.2.1'
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.8'
+
+    implementation group: 'com.squareup.okhttp3', name: 'okhttp', version: '3.11.0'
+    implementation group: 'com.querydsl', name: 'querydsl-jpa', version: '4.2.1'
+
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.8'
+    implementation group: 'org.apache.commons', name: 'commons-email', version: '1.5'
+    implementation group: 'com.squareup.retrofit2', name: 'retrofit', version: '2.6.1'
+    implementation group: 'com.squareup.retrofit2', name: 'converter-gson', version: '2.6.1'
+
+    implementation 'com.bw:bw-starter:0.1'
+    compileOnly "org.projectlombok:lombok:$lombokVersion"
+    annotationProcessor "org.projectlombok:lombok:$lombokVersion"
+
+    testImplementation(project(":${projectName}-test-starter"))
+    testImplementation(project(":${projectName}-infrastructure"))
+    testImplementation(project(":${projectName}-integration-impl"))
+    testImplementation('com.bw:bw-auth-client:0.3')
+}
+
+//jacocoTestCoverageVerification {
+//    violationRules {
+//        rule {
+//            element = 'CLASS'
+//            limit {
+//                minimum = 0.85
+//            }
+//        }
+//    }
+//}
+check.dependsOn jacocoTestCoverageVerification

@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width"/>
+
+    <!-- For development, pass document through inliner -->
+    <!-- <link rel="stylesheet"  href="css/simple.css"> -->
+
+
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+            font-size: 100%;
+            font-family: 'Avenir Next', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+            line-height: 1.65;
+        }
+
+        img {
+            max-width: 100%;
+            display: block;
+        }
+
+        body,
+        .body-wrap {
+            width: 100% !important;
+            height: 100%;
+            background: #f8f8f8;
+        }
+
+        a {
+            colorHex: #73b680;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        .text-right {
+            text-align: right;
+        }
+
+        .text-left {
+            text-align: left;
+        }
+
+        .button {
+            display: inline-block;
+            color: white;
+            background: #73b680;
+            border: solid #73b680;
+            border-width: 10px 20px 8px;
+            font-weight: bold;
+            border-radius: 4px;
+        }
+
+        .button:hover {
+            text-decoration: none;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            margin-bottom: 20px;
+            line-height: 1.25;
+        }
+
+        h1 {
+            font-size: 32px;
+        }
+
+        h2 {
+            font-size: 28px;
+        }
+
+        h3 {
+            font-size: 24px;
+        }
+
+        h4 {
+            font-size: 20px;
+        }
+
+        h5 {
+            font-size: 16px;
+        }
+
+        p,
+        ul,
+        ol {
+            font-size: 16px;
+            font-weight: normal;
+            margin-bottom: 20px;
+        }
+
+        .container {
+            display: block !important;
+            clear: both !important;
+            margin: 0 auto !important;
+            max-width: 580px !important;
+        }
+
+        .container table {
+            width: 100% !important;
+            border-collapse: collapse;
+        }
+
+        .header-logo {
+            padding: 10px 0px 10px 30px;
+            height: 40px;
+        }
+
+        .container .masthead {
+            padding: 5px 0;
+            background: #ceeeff;
+            colorHex: white;
+        }
+
+        .container .mastfooter {
+            padding: 10px 0;
+            background: linear-gradient(180deg, #0B9CE6 0%, #005A88 100%);
+            colorHex: white;
+        }
+
+
+        .container .masthead h1 {
+            margin: 0 auto !important;
+            max-width: 90%;
+            text-transform: uppercase;
+        }
+
+        .container .content {
+            background: white;
+            padding: 30px 35px 0 35px;
+        }
+
+        .container .content-x {
+            background: white;
+            padding: 0px 35px;
+            text-align: center;
+            font-size: 14px;
+            color: #a5a5a5;
+        }
+
+        .content-x-margin {
+            background: white;
+            margin: 0px 35px;
+        }
+
+        .container .content.footer {
+            background: none;
+        }
+
+        .container .content.footer p {
+            margin-bottom: 0;
+            colorHex: #888;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        .container .content.footer a {
+            colorHex: #888;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .container .content.footer a:hover {
+            text-decoration: underline;
+        }
+
+        .color1 {
+            color: #D3F8FE !important;
+        }
+
+        .color-white {
+            color: #fff
+        }
+
+        .mx-20 {
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+
+        .mt-10px {
+            margin-top: 10px;
+        }
+
+        .d-block {
+            display: block;
+        }
+
+        .email-border {
+            background: #0085C9;
+        }
+
+        .email-footer {
+            font-size: 13px;
+        }
+
+        .footer-logo {
+            padding: 10px 20px 10px 0px;
+        }
+
+        .font-14 {
+            font-size: 14px
+        }
+
+    </style>
+</head>
+
+<body>
+<table class="body-wrap">
+    <tr>
+        <td class="container">
+
+            <!-- Message start -->
+            <table>
+                <tr height="40px">
+
+                </tr>
+                <tr class="email-header">
+                    <td align="left" class="masthead">
+
+
+                        <!--  <img src="${baseUrl!''}/assets/img/email-icons/aap-logo-header.png" class="header-logo" height="50px">-->
+                        <img src="${baseUrl!''}/assets/img/logo.png" class="header-logo"
+                             height="50px">
+
+                        <!-- <h1> Estate and Homes Logo </h1> -->
+
+                    </td>
+                </tr>
+                <tr height="3px">
+                    <td class="email-border" align="center">
+                </tr>
+                <tr>
+                    <td class="content">
+
+                        <h4 style="text-transform: capitalize">Hello ${(name)!''} </h4>
+
+
+                        <p class="font-14">
+                            ${(message)!''}
+                        </p>
+
+                        <p class="font-14" style="padding-top:15px;"> Sincerely
+                            <br>
+                            <em>
+                                ${emailSenderName!''}</em></p>
+
+
+                    </td>
+                </tr>
+
+                <tr style="border-top: 1px solid #e1e1e1; ">
+                    <!--                    <td class="content-x" style="padding-top: 10px;"> Don&rsquo;t have the app yet? Please download the-->
+                    <!--                        mobile app on Google Play Store and IOS-->
+                    <!--                        app Store-->
+                    <!--                    </td>-->
+                </tr>
+            </table>
+            <table class="content-x">
+                <tr class="content-x-margin" style="padding-bottom: 50px;">
+                    <td colspan="1" width="100%">
+                        <div style="display: flex; justify-content: center;">
+                            <!--                            <a target="_blank" href="${appStoreUrl!''}">-->
+                            <!--                                <img src="${baseUrl!''}/assets/img/email-icons/app-store.png" class="footer-logo"-->
+                            <!--                                     alt="logo"-->
+                            <!--                                     style="width: 140px; display: block; margin-right: 0px;">-->
+                            <!--                            </a>-->
+                            <!--                            <a target="_blank" href="${playStoreUrl!''}" style="margin-left: 5px;">-->
+                            <!--                                <img src="${baseUrl!''}/assets/img/email-icons/play-store.png" class="footer-logo"-->
+                            <!--                                     alt="logo"-->
+                            <!--                                     style="width: 140px; display: block; margin-right: 0px;">-->
+                            <!--                            </a>-->
+                        </div>
+
+                    </td>
+
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td class="container">
+
+            <!-- Message start -->
+            <table class="mb-3 px-5">
+                <tr height="2px">
+                    <td style="background: #5e8d5e" align="center">
+                </tr>
+                <tr class="email-footer  ">
+                    <td class="mastfooter" align="left">
+                        <small>
+                                <span class="d-block mx-20 color-white">
+                                    If you believe you have received this email in error, kindly ignore or send an email
+                                    to
+                                </span>
+                            <a class="d-block mx-20 color1" href="mailto:customercare@${domainName!''}">
+                                customercare@${domainName!''}</a>
+                        </small>
+                    </td>
+                </tr>
+            </table>
+
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="max-width: 600px;"
+                   class="responsive-table">
+                <tr class="">
+                    <td class="d-block mx-20 mt-10px" align="left"
+                        style="font-size: 11px; line-height: 18px; font-family: Helvetica, Arial, sans-serif; colorHex:#666666;">
+                        Copyright 2019 | ${platformName!''} | All Right Reserved. Powered by <a target="_blank"
+                                                                                                href="https://www.byteworks.com.ng">Byteworks</a>
+                        <br>
+                    </td>
+                    <td align="right">
+
+                        <img src="${baseUrl!''}/assets/img/email-icons/aap-logo-footer.png" class="footer-logo"
+                             alt="logo"
+                             width="90" height="" style="display: block; " border="0">
+
+                    </td>
+
+                </tr>
+            </table>
+
+
+        </td>
+    </tr>
+</table>
+</body>
+
+</html>
